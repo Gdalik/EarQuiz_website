@@ -14,7 +14,7 @@ title: 'EarQuiz'
 slogan: 'Free Yet Powerful Software for Technical Ear Training'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»EarQuiz« is a project on developing free and open-source software for technical ear training.'
+description: '*EarQuiz* is a project on developing free and open-source software for technical ear training.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by Gdaliy Garmiza aka GdaliySax based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
