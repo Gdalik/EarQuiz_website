@@ -12,3 +12,4 @@ widget1:
   # url: 'http://phlow.github.io/feeling-responsive/blog/'
   # image: widget-1-302x182.jpg
   text: 'EarQuiz Frequencies'
+permalink: /index.html
