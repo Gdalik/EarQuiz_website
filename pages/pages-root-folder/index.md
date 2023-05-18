@@ -7,6 +7,7 @@
 layout: frontpage
 header:
     background-color:  '#d7eef4;'
+    image: EQ_header_background.png
 widget1:
   title: "Software"
   # url: 'http://phlow.github.io/feeling-responsive/blog/'
