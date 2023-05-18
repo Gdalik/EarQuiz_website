@@ -24,3 +24,5 @@ widget3:
   text: 'No news...'
 
 permalink: /index.html
+
+---
