@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/Gdalik
+  url: https://github.com/Gdalik
   class: icon-github
   title: GitHub Account
 
@@ -28,10 +28,10 @@
 #   class: icon-soundcloud
 #   title: ""
 
- - name: Instagram
-   url: https://instagram.com/gdaliysax
-   class: icon-instagram
-   title: ""
+- name: Instagram
+  url: https://instagram.com/gdaliysax
+  class: icon-instagram
+  title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
