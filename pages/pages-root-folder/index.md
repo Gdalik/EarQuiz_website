@@ -6,4 +6,9 @@
 #
 layout: frontpage
 header:
-    background-color:  "#d7eef4"
+    background-color:  #d7eef4
+widget1:
+  title: "Software"
+  # url: 'http://phlow.github.io/feeling-responsive/blog/'
+  # image: widget-1-302x182.jpg
+  text: 'EarQuiz Frequencies'
