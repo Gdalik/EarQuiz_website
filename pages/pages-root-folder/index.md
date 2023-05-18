@@ -5,3 +5,5 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+header:
+    background-color:  "#d7eef4"
