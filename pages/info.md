@@ -42,7 +42,7 @@ not only David Moulton and his game-changing course, but also by other great thi
 - [Python][2] with its power, simplicity and big community that lets non-technical people like me bring their ideas to life
 without the need to hire professional coders;
 - [Pedalboard][3] by Spotify’s Audio Intelligence Lab, which is an excellent and well-supported Python library for working with audio;   
-- [PyQt6][4] which is a powerful toolset for developing beautiful and convenient graphical user interfaces on Python
+- [PyQt6][4] which is a powerful toolset for developing beautiful and convenient graphical user interfaces on Python.
 
 I hope, many hours and months of development were not in vain, and you would find this project useful!
 
