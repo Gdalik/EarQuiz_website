@@ -5,6 +5,15 @@ subheadline: "WWW (Who? What? Why?)"
 teaser: "<i>EarQuiz</i> is a project, dedicated to the development of free yet quality software for <b>technical ear training</b>. 
 It is my pursuit to do something cool and useful for aspiring and professional musicians and all people involved in audio 
 industry, combining my skills, experience and passions."
+tags:
+    - ear training
+    - technical ear training
+    - ear training apps
+    - Golden Ears
+    - David Moulton
+    - open source audio software
+    - free audio software
+    - audio in Python
 permalink: "/info/"
 ---
 
@@ -24,8 +33,8 @@ I don't know who is the pioneer of it, but I hadn't heard anything of these prac
 when I used to be an educator, and I was just getting started after graduating from the university.
 And I thought it was such a pity I hadn't been taught like that! So, I decided to explore this method together with my 
 students: guessing equalization, applied to pink noise and music records, different types of effects and processing, etc.
-But the ideas were in the air. And I was not the only one who started to do the same thing. One or two years later, 
-this subject became a part of the educational standard in audio industry in my country. And, honestly, I'm convinced
+But the ideas were in the air. And I was not the only one who started to use this approach. One or two years later, 
+*technical ear training* became a part of the educational standard in audio industry in my country. And, honestly, I'm convinced
 that developing these skills is a must not only for audio professionals, but for any contemporary musicians
 and artists who deal with sound recording or amplification.
 
