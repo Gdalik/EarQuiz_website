@@ -31,7 +31,7 @@ etc., and there are many courses, services and applications for doing this. But 
 dimension and different set of listening skills which are all about *hearing differences in **sound***.
 
 I don't know who is the pioneer of it, but I hadn't heard anything of these practices before I found [David Moulton's *Golden Ears Audio Ear Training* CD series][1] back in 2007,
-when I used to be an educator, and I was getting started after graduating from the university.
+when I used to be an educator, and I started my path after graduating from the university.
 And I thought it was such a pity I hadn't been taught like that! So, I decided to explore this method together with my 
 students: guessing equalization, applied to pink noise and music records, different types of effects and processing, etc.
 But the ideas were in the air. And I was not the only one who started to use this approach. One or two years later, 
