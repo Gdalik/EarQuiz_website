@@ -27,19 +27,19 @@ $body-bg            : #fdfdfd;;
 ------------------------------------------------------------------- */
 
 $ci-1               : #45B29D; // turquoise
-$ci-2               : #334D5C; // dark turquoise
+$ci-2               : #D7EEF4; // cyan
 $ci-3               : #EFC94C; // yellow
 $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #A1D044; // green
-$ci-7               : #D7EEF4; // cyan
+$ci-7               : #334D5C; // dark turquoise
 
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
 $primary-color      : $ci-1;
-$secondary-color    : $ci-7;
+$secondary-color    : $ci-6;
 $alert-color        : $ci-5;
 $success-color      : $ci-6;
 $warning-color      : $ci-4;
@@ -83,8 +83,8 @@ $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-7;
-$topbar-dropdown-link-bg-hover: $ci-3;
+$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-link-bg-hover: $ci-6;
 
 $topbar-link-bg-active: $ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
