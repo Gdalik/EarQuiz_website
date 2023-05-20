@@ -1,61 +1,56 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "WWW (Who? What? Why?)"
+teaser: "*EarQuiz* is a project, dedicated to the development of free yet quality software for **technical ear training**. 
+It is my pursuit to do something cool and useful for aspiring and professional musicians and all people involved in audio 
+industry, combining my skills, experience and passions."
 permalink: "/info/"
-header:
-    image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+Hi! My name is Gdaliy Garmiza (aka GdaliySax). I'm a professional live and studio musician with a university degree and some years of practical 
+and educational experience in audio production and engineering behind my back. Though never being or aiming to become an IT specialist, 
+I have enjoyed coding for myself since my childhood. This is my first open source experience. I really appreciate the idea
+of taking some great free things, developed by other people, making something valuable of them, and giving it out to the world for free in exchange.
+And another exceptional thing about it is that anyone can contribute to it in different ways: spreading a word about it, 
+making donations, testing it, proposing new features or writing own code.
+
+### Why technical ear training and what the hell is it?
+
+While standard ear training for musicians involves guessing pitches, intervals, chords, rhythms, transcribing melodies, chord progressions,
+etc., *technical ear training* covers another dimension and different set of listening skills which are all about *hearing differences in sound*.
+
+I don't know who is the pioneer of it, but I hadn't heard anything of these practices before I found [David Moulton's *Golden Ears* CD series][1] back in 2007,
+when I used to be an educator, and I was just getting started after graduating from the university.
+And I thought it was such a pity I hadn't been taught like that! So, I decided to explore this method together with my 
+students: guessing equalization, applied to pink noise and music records, different types of effects and processing, etc.
+But the ideas were in the air. And I was not the only one who started to do the same thing. One or two years later, 
+this subject became a part of the educational standard in audio industry in my country. And, honestly, I'm convinced
+that developing these skills is a must not only for audio professionals, but for any contemporary musicians
+and artists who deal with sound recording or amplification.
+
+Currently, this is my 100% enthusiast project, and I have no idea how big it will grow. So far, it consists of one software
+product *EarQuiz Frequencies* for Windows and macOS platforms. This is an application for ear training on equalization.
+Really knowing frequency ranges and being able to identify which of them are boosted or cut is definitely one of the most 
+important skills. David Moulton dedicated the half of his paid course to it, by the way! There are some similar applications
+on the market, but I don't know any of them that provides the same amount of features, audio quality and flexibility for free!
+
+### I got inspired by...
+
+not only David Moulton and his game-changing course, but also by other great things:
+
+- [Python][2] with its power, simplicity and big community that lets non-technical people like me bring their ideas to life
+without the need to hire professional coders;
+- [Pedalboard][3] by Spotify’s Audio Intelligence Lab, which is an excellent and well-supported Python library for working with audio;   
+- [PyQt6][4] which is a powerful toolset for developing beautiful and convenient graphical user interfaces on Python
+
+I hope, many hours and months of development were not in vain, and you would find this project useful!
+
+Yours faithfully,<br />
+Gdaliy Garmiza.
 
 
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
-
-
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+ [1]: https://goldenearsaudio.com/
+ [2]: https://www.python.org/
+ [3]: https://spotify.github.io/pedalboard/
+ [4]: https://www.riverbankcomputing.com/software/pyqt/
