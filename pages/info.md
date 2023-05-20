@@ -20,7 +20,7 @@ making donations, testing it, proposing new features or writing own code.
 While standard ear training for musicians involves guessing pitches, intervals, chords, rhythms, transcribing melodies, chord progressions,
 etc., *technical ear training* covers another dimension and different set of listening skills which are all about *hearing differences in sound*.
 
-I don't know who is the pioneer of it, but I hadn't heard anything of these practices before I found [David Moulton's *Golden Ears* CD series][1] back in 2007,
+I don't know who is the pioneer of it, but I hadn't heard anything of these practices before I found [David Moulton's *Golden Ears Audio Ear Training* CD series][1] back in 2007,
 when I used to be an educator, and I was just getting started after graduating from the university.
 And I thought it was such a pity I hadn't been taught like that! So, I decided to explore this method together with my 
 students: guessing equalization, applied to pink noise and music records, different types of effects and processing, etc.
