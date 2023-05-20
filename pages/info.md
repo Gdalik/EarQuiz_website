@@ -12,7 +12,7 @@ Hi! My name is Gdaliy Garmiza (aka GdaliySax). I'm a professional live and studi
 and educational experience in audio production and engineering behind my back. Though never being or aiming to become an IT specialist, 
 I have enjoyed coding for myself since my childhood. This is my first open source experience. I really appreciate the idea
 of taking some great free things, developed by other people, making something valuable of them, and giving it out to the world for free in exchange.
-And another exceptional thing about it is that anyone can contribute to it in different ways: spreading a word about it, 
+And another exceptional thing about an open source project is that anyone can contribute to it in different ways: spreading a word about it, 
 making donations, testing it, proposing new features or writing own code.
 
 ### Why technical ear training and what the hell is it?
@@ -32,8 +32,9 @@ and artists who deal with sound recording or amplification.
 Currently, this is my 100% enthusiast project, and I have no idea how big it will grow. So far, it consists of one software
 product *EarQuiz Frequencies* for Windows and macOS platforms. This is an application for ear training on equalization.
 Really knowing frequency ranges and being able to identify which of them are boosted or cut is definitely one of the most 
-important skills. David Moulton dedicated the half of his paid course to it, by the way! There are some similar applications
-on the market, but I don't know any of them that provides the same amount of features, audio quality and flexibility for free!
+important skills. David Moulton dedicated the half of his paid course to exercises on recognizing frequencies, by the way! 
+There are some similar applications on the market, but I don't know any of them that provides the same amount of features, 
+audio quality and flexibility for free!
 
 ### I got inspired by...
 
