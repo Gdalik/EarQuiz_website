@@ -26,8 +26,9 @@ making donations, testing it, proposing new features or writing own code.
 
 ### Why technical ear training and what the hell is it?
 
-While standard ear training for musicians involves guessing pitches, intervals, chords, rhythms, transcribing melodies, chord progressions,
-etc., *technical ear training* covers another dimension and different set of listening skills which are all about *hearing differences in sound*.
+Standard ear training for musicians involves guessing pitches, intervals, chords, rhythms, transcribing melodies, chord progressions,
+etc., and there are many courses, services and applications for doing this. But *technical ear training* covers another 
+dimension and different set of listening skills which are all about *hearing differences in **sound***.
 
 I don't know who is the pioneer of it, but I hadn't heard anything of these practices before I found [David Moulton's *Golden Ears Audio Ear Training* CD series][1] back in 2007,
 when I used to be an educator, and I was just getting started after graduating from the university.
