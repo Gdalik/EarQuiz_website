@@ -26,4 +26,4 @@ permalink: /index.html
 
 ---
 
-/EQ_Freq_Screenshot_1.png
+<img src='/EQ_Freq_Screenshot_1.png' />
