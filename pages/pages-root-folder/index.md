@@ -25,3 +25,4 @@ permalink: /index.html
 
 
 ---
+<a href="https://www.flaticon.com/free-icons/download" title="download icons"><small>Download icons created by Freepik - Flaticon</small></a>
