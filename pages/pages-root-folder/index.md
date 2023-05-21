@@ -20,6 +20,7 @@ widget3:
   # url: ''
   # image: widget-1-302x182.jpg
   text: 'No news...'
+header: no
 image:
   title: EQ_Freq_Screenshot_1.png
 
