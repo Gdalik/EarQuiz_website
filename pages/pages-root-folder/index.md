@@ -13,8 +13,9 @@ widget1:
 widget2:
   title: "Download"
   # url: ''
-  image: download_256.png
-    caption: Icon by
+  image:
+    - image_url: download_256.png
+      caption: Great icons by
   text: 'Releases'
 widget3:
   title: "News"
