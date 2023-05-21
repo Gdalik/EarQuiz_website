@@ -21,7 +21,7 @@ widget3:
   # image: widget-1-302x182.jpg
   text: 'No news...'
 
-permalink: /index.html
+permalink: /
 
 
 ---
