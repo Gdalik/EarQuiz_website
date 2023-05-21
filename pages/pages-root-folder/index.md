@@ -23,4 +23,6 @@ widget3:
 
 permalink: /index.html
 
+![](EQ_Freq_Screenshot_1.png)
+
 ---
