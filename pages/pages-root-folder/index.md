@@ -13,8 +13,7 @@ widget1:
 widget2:
   title: "Download"
   # url: ''
-  image:
-    - image_url: download_256.png
+  image: download_256.png
   text: 'Releases'
 widget3:
   title: "News"
