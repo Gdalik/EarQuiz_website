@@ -3,7 +3,7 @@
   side: left
 
 - title: About
-  url: "/info"
+  url: "/info/"
   side: left
 
 - title: Getting Started
