@@ -21,8 +21,8 @@ widget3:
   # image: widget-1-302x182.jpg
   text: 'No news...'
 
-permalink: /
-
+permalink: /index.html
+homepage: true
 
 ---
 <a href="https://www.flaticon.com/free-icons/download" title="download icons"><small>Download icons created by Freepik - Flaticon</small></a>
