@@ -21,7 +21,7 @@ widget3:
   # image: widget-1-302x182.jpg
   text: 'No news...'
 image:
-    title: EQ_Freq_Screenshot_1.png
+  title: EQ_Freq_Screenshot_1.png
 
 permalink: /index.html
 
