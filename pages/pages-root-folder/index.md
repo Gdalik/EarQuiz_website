@@ -8,7 +8,7 @@ layout: frontpage
 widget1:
   title: "Software"
   # url: 'http://phlow.github.io/feeling-responsive/blog/'
-  # image: widget-1-302x182.jpg
+  image: EQ_Freq_Screenshot_1.png
   text: 'EarQuiz Frequencies'
 widget2:
   title: "Download"
@@ -20,9 +20,6 @@ widget3:
   # url: ''
   # image: widget-1-302x182.jpg
   text: 'No news...'
-image:
-  title: EQ_Freq_Screenshot_1.png
-  homepage: EQ_Freq_Screenshot_1.png
 
 permalink: /index.html
 
