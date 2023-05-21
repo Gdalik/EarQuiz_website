@@ -23,7 +23,6 @@ widget3:
 
 permalink: /index.html
 
+<img src='{{ site.urlimg }}EQ_Freq_Screenshot_1.png' />
 
 ---
-
-<img src='{{ site.urlimg }}EQ_Freq_Screenshot_1.png' />
