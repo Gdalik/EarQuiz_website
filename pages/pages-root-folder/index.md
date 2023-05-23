@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: "News"
   # url: ''
-  # image: widget-1-302x182.jpg
+  image: press-release.png
   text: 'No news...'
 
 permalink: /index.html
@@ -26,3 +26,4 @@ homepage: true
 
 ---
 <a href="https://www.flaticon.com/free-icons/download" title="download icons"><small>Download icons created by Freepik - Flaticon</small></a>
+<a href="https://www.flaticon.com/free-icons/press-release" title="press release icons"><small>Press release icons created by surang - Flaticon</small></a>
