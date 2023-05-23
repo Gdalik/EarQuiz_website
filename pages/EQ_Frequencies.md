@@ -14,3 +14,4 @@ image:
     title: EQ_Freq_Screenshot_1.png
 permalink: "/EQ_Frequencies/"
 ---
+Some text here
