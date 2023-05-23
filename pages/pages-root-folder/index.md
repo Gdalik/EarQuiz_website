@@ -9,12 +9,12 @@ widget1:
   title: "Software"
   # url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: EQ_Freq_Screenshot_2.png
-  text: 'EarQuiz Frequencies'
+  text: 'EarQuiz Frequencies: learn frequency bands, equalize consciously!'
 widget2:
   title: "Download"
   # url: ''
   image: download_128.png
-  text: 'Releases'
+  text: 'Waiting for releases...'
 widget3:
   title: "News"
   # url: ''
@@ -25,5 +25,5 @@ permalink: /index.html
 homepage: true
 
 ---
-<a href="https://www.flaticon.com/free-icons/download" title="download icons"><small>Download icons created by Freepik - Flaticon</small></a>
+<a href="https://www.flaticon.com/free-icons/download" title="download icons"><small>Download icons created by Freepik - Flaticon</small></a><br />
 <a href="https://www.flaticon.com/free-icons/press-release" title="press release icons"><small>Press release icons created by surang - Flaticon</small></a>
