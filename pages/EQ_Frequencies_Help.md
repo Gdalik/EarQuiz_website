@@ -12,4 +12,5 @@ tags:
 header: no
 image:
     title: EQ_Freq_Screenshot_1.png
+permalink           : "/EQ_Frequencies_Help/"
 ---
