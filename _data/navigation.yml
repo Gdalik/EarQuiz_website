@@ -14,9 +14,9 @@
   url: "/manuals/"
   side: left
   dropdown:
-  - title: "EQ Frequencies Help"
+  - title: "EarQuiz Frequencies Help"
     url: "/EQ_Frequencies_Help/"
-  - title: "EQ Frequencies Tutorial Video"
+  - title: "EarQuiz Frequencies Tutorial Video"
     url: "/EQ_Frequencies_Tutorial_Video/"
 
 - title: "Search"
