@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  "The Basic Training Method"
-subheadline: "EarQuiz Frequencies Help"
+title:  "EarQuiz Frequencies Help - The Basic Training Method"
 breadcrumb: true
 categories:
     - manuals
