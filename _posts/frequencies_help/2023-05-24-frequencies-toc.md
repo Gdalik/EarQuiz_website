@@ -10,7 +10,7 @@ tags:
     - table of contents
 ---
 
-* [The Basic Training Method](#the-basic-training-method)
+* [The Basic Training Method]('/manuals/basic-training-method/')
 * Getting Started
   - [Short Start Guide](#short-start-guide)
   - [Choosing Acoustic Device](#choosing-acoustic-device)
@@ -22,9 +22,9 @@ tags:
     * [Equalization Patterns](#eq-patterns)
     * [Equalization Sliders](#equalization-sliders)
     * [Equalization Settings](#equalization-settings)
-* [Working with External Audio Files](#working-with-external-audio-files)
-* [The Learn Mode](#learn-mode)
-* [The Test Mode](#test-mode)
+  - [Working with External Audio Files](#working-with-external-audio-files)
+  - [The Learn Mode](#learn-mode)
+  - [The Test Mode](#test-mode)
 * [How to Memorize Frequency Bands?](#memorizing-frequencies)
 * Creating, Editing and Saving Playlists
   - Adding and Removing Tracks
