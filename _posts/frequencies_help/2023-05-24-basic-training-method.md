@@ -25,7 +25,7 @@ automatically. After some more seconds, the EQ is switched off again, and the so
 
 <br />
 
-![]({{ site.url }}{{ site.urlimg }}/Frequencies_Help/Drill_structure.png)
+![]({{ site.urlimg }}Frequencies_Help/Drill_structure.png)
 
 *Note: The current proportion of equalized part length versus sum length of non-equalized ones is hard-coded at 40/60 per cent.
 Therefore, if we have 10 seconds length example, this would be: 3sec **EQ Off**, 4sec **EQ On** and 
