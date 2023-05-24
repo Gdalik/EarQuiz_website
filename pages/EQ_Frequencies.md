@@ -25,7 +25,7 @@ whose course is half dedicated to building this essential critical listening ski
 The overall training process involves ongoing learning and testing yourself. In the *Learn* mode, you listen to the pink noise
 or music (or other external audio) excerpts with switched off and on 1-octave or 1/3-octave graphic EQ, boosting or cutting frequency bands within
 certain spectral ranges. Then in the *Test* mode you are given a sequence of 10 similar examples, where you try to guess,
-which frequencies are boosted or cut.
+which frequencies are boosted or cut, and you get scored.
 
 The program is [Free Software](https://www.gnu.org/philosophy/free-sw.html), distributed under [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html). 
 It is free for any use, either personal or commercial!
