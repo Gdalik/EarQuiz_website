@@ -2,16 +2,50 @@
 layout: page
 subheadline:  "Learn frequency bands! Equalize consciously!"
 title:  "EarQuiz Frequencies"
-teaser: "<i>EarQuiz Frequencies</i> is a software for technical ear training. Its goal is to help musicians and other audio professionals or students learn how to hear frequency bands."
+teaser: "<i>EarQuiz Frequencies</i> is a software for ear training on equalization. Its goal is to help musicians and other audio professionals or students learn how to hear frequency bands."
 tags:
     - equalization
     - Golden Ears
     - equalizer
     - frequency bands
     - ear training
-header: no
 image:
     title: EQ_Freq_Screenshot_1.png
 permalink: "/EQ_Frequencies/"
 ---
-Some text here
+Whether you make a living from music or this is your hobby; whether you are a seasoned sound professional or a student, 
+trying to develop or master the ability to aurally recognize frequency bands; 
+whether you are an audio specialist/artist of any kind (performer, producer, recording/mixing/mastering/live sound engineer, audio designer, DJ, etc.) or
+just someone who wants to teach himself/herself how to adjust an audio system with equalizer by ear, this application
+is for you! Educators in the audio industry may use this software to produce superb quality training and test materials for their students almost in no time.
+
+This application is based on (and deeply inspired by) the world-renowned *[Golden Ears](https://goldenearsaudio.com/)* method of David Moulton, 
+whose course is half dedicated to building this essential critical listening skill.
+
+The overall training process involves ongoing learning and testing yourself. In the *Learn* mode, you listen to the pink noise
+or music (or other external audio) excerpts with switched off and on 1-octave or 1/3-octave graphic EQ, boosting or cutting frequency bands within
+certain spectral ranges. Then in the *Test* mode you are given a sequence of 10 similar examples, where you try to guess,
+which frequencies are boosted or cut.
+
+The program is [Free Software](https://www.gnu.org/philosophy/free-sw.html), distributed under [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html). 
+It is free for any use, either personal or commercial!
+
+### Features
+
+- Internal pink noise generator or any external audio file in WAV, AIFF, FLAC or MP3 format can be used as audio source.
+- 15 built-in presets with increasing difficulty.
+- 1-octave (10-band) and 1/3-octave (30-band) EQ.
+- Exercise patterns with boost or/and cut frequencies.
+- Single-band and Dual-band exercise patterns.
+- Custom adjustable frequency gain level from ±1 to ±18 dB.
+- Custom adjustable filter bandwidth/Q-factor.
+- Auto peak-normalization, preventing digital clipping during equalization.
+- Easy non-destructive trimming of external audio files.
+- Adjustable example/slice length from 10 up to 30 seconds.
+- Auto-saving trimmed ranges and example/slice lengths for different audio sources.
+- Exporting learning and test audio files packages in WAV, AIFF, FLAC, MP3, or OGG format. 
+- Audio format converter.
+- Reading M3U, M3U8, PLS, XSPF playlists supported.
+- Exporting M3U and M3U8 playlists supported.
+- Convenient and flexible playlist navigation.
+- And other features...
