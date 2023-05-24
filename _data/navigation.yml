@@ -15,7 +15,7 @@
   side: left
   dropdown:
   - title: "EarQuiz Frequencies Help"
-    url: "/frequencies_help/toc/"
+    url: "Frequencies_Help/toc/"
   - title: "EarQuiz Frequencies Tutorial Video"
     url: "/EQ_Frequencies_Tutorial_Video/"
 
