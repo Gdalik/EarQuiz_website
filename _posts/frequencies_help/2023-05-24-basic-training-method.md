@@ -4,7 +4,7 @@ title:  "The Basic Training Method"
 breadcrumb: true
 categories:
     - manuals
-    - frequencies-toc
+    - earquiz-frequencies-help
 tags:
     - EarQuiz Help
     - ear training on equalization
