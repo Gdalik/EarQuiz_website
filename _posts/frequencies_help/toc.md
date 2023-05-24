@@ -7,6 +7,7 @@ tags:
     - EarQuiz Help
     - table of contents
 ---
+<!--more-->
 
 ### [The Basic Training Method](#the-basic-training-method)
 ### Getting Started
