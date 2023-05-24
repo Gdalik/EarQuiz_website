@@ -10,7 +10,7 @@ tags:
     - table of contents
 ---
 
-* [The Basic Training Method]({{ site.url }}{{ site.baseurl }}/manuals/basic-training-method/)
+* [The Basic Training Method](/basic-training-method/)
 * Getting Started
   - [Short Start Guide](#short-start-guide)
   - [Choosing Acoustic Device](#choosing-acoustic-device)

@@ -1,9 +1,7 @@
 ---
 layout: page
-title:  "EarQuiz Frequencies Help - The Basic Training Method"
+title:  "The Basic Training Method"
 breadcrumb: true
-categories:
-    - manuals
 tags:
     - EarQuiz Help
     - ear training on equalization
