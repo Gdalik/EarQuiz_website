@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Table of Contents"
-subheadline: "EarQuiz Frequencies Help"
+title:  "EarQuiz Frequencies Help"
+subheadline: "Table of Contents"
 breadcrumb: true
 categories:
-    - earquiz-frequencies-help
+    - manuals
 tags:
     - EarQuiz Help
     - table of contents
