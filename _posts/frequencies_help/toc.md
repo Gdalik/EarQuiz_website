@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "EarQuiz Frequencies Help - Table of Contents"
+subheadline: "Table of Contents"
+teaser: "This is *EarQuiz Frequencies* Online Help"
 categories:
     - EarQuiz Help
 tags:
