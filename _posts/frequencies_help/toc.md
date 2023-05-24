@@ -8,6 +8,7 @@ categories:
 tags:
     - EarQuiz Help
     - table of contents
+permalink: "frequencies_help/toc/"
 ---
 <!--more-->
 
