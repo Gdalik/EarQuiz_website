@@ -2,6 +2,9 @@
 layout: page
 title:  "The Basic Training Method"
 breadcrumb: true
+categories:
+    - manuals
+    - frequencies-toc
 tags:
     - EarQuiz Help
     - ear training on equalization
