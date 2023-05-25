@@ -7,6 +7,7 @@ categories:
     - earquiz-frequencies-help
 tags:
     - EarQuiz Help
+    - Getting Started
     - ear training on equalization
     - learning frequencies
 ---
