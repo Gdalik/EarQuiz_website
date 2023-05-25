@@ -34,3 +34,5 @@ tags:
 * Setting Default Length of Slice/Example
 * Application Data and Settings
 * [Annotations](#pink-noise)
+
+{% include next-previous-post-in-category %}
