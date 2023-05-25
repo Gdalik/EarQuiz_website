@@ -27,3 +27,5 @@ on contemporary machines, the playback of an example should start.
 
 *Here, you may want to proceed with the training process. But I suggest that we should **adjust your
 audio system** first.*
+
+{% raw %} {% include next-previous-post-in-category %}
