@@ -27,7 +27,7 @@ go through all the possible examples.
 right-click context menu or from the **Audio** menu of the main menu. Then reduce the volume level by 10-15 dB.
 8. [Load, preview and trim](#working-with-external-audio-files) some of your favorite commercially mastered music tracks of different
 styles/genres.
-9. Uncheck the **Controls | Start Playing After Loading Track in Preview Mode** option in the main menu if checked.
+9. Uncheck the **Controls \| Start Playing After Loading Track in Preview Mode** option in the main menu if checked.
 10. Restore the volume level with the feature, available from the **Volume Slider** 
 right-click context menu or from the **Audio** menu of the main menu.
 11. Do the learn-test exercises with the first three EQ patterns, using prepared music tracks.
