@@ -35,4 +35,4 @@ tags:
 * Application Data and Settings
 * [Annotations](#pink-noise)
 
-{% include next-previous-post-in-category %}
+{% raw %} {% include next-previous-post-in-category %}
