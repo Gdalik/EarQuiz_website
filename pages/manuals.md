@@ -5,7 +5,7 @@ title: "EarQuiz Manuals"
 permalink: "/manuals/"
 ---
 
-### [EarQuiz Frequencies Help](/manuals/earquiz-frequencies-help/)
+### <a href="{{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/">EarQuiz Frequencies Help</a>
 ### EarQuiz Frequencies Tutorial Video
 
 <ul>
