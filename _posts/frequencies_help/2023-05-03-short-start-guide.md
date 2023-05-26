@@ -35,5 +35,3 @@ right-click context menu or from the **Audio** menu of the main menu.
 Adjust the volume level where needed.
 13. After becoming familiar with the built-in EQ patterns, try practicing with custom [EQ Settings](#equalization-settings).
 14. Explore more features, read more documentation (if needed).
-
-{% raw %} {% include next-previous-post-in-category %}

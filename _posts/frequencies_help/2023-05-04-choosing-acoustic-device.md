@@ -23,5 +23,3 @@ You can use quality headphones as well. It is much easier and cheaper to achieve
 one of the main reasons being that it is not affected by the room acoustics. Be aware, though, that pitch and loudness 
 perception in headphones may significantly differ from the experience with loudspeakers. And you cannot feel the sound 
 with your whole body this way, which may be especially important for analysing the lower end of the spectrum.
-
-{% raw %} {% include next-previous-post-in-category %}

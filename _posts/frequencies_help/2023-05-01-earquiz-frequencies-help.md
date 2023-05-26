@@ -34,5 +34,3 @@ tags:
 * Setting Default Length of Slice/Example
 * Application Data and Settings
 * [Annotations](#pink-noise)
-
-{% raw %} {% include next-previous-post-in-category %}
