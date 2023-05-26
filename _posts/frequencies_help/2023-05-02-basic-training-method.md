@@ -39,4 +39,8 @@ highlighted sliders and frequency values on the screen, and let your brains do t
 - Second, you take a **test** which is nothing but a sequence of ten similar examples with randomly chosen frequency values 
 and boost/cut options (where available), which you guess, and get a score to track your progress.
 
-{% include next-previous-post-in-category %}
+<div id="bottom" class="row t30">
+    <div class="small-12 columns">
+       {% include next-previous-post-in-category %}
+    </div><!-- /.small-12.columns -->
+</div>
