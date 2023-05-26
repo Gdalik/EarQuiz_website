@@ -118,7 +118,7 @@ defaults:
       path: ''
       type: 'posts'
     values:
-      show_meta: false   # Hide metadata for all posts
+      show_meta: show   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: GdaliySax     # Default author for posts
