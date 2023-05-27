@@ -32,5 +32,5 @@ tags:
 * [Making Training Audio Files](making-training-audio/)
 * [Converting Audio Files](converting-audio/)
 * [Setting Default Length of Slice/Example](setting-default-slice-length/)
-* Application Data and Settings
+* [Application Data and Settings](application-data-settings/)
 * [Annotations](#pink-noise)
