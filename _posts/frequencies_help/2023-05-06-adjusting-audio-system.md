@@ -22,7 +22,7 @@ loudness compensation button on your playback preamp or receiver, it should be o
 <br/>
 
 #### Setting Volume Level
-<a id="setting-volume-level">The main idea for the volume</a> is to set the comfortable level for the whole Learn/Test exercise cycle with the same audio stuff
+The main idea for the volume is to set the comfortable level for the whole Learn/Test exercise cycle with the same audio stuff
 and EQ pattern, without changing the loudness during or between separate examples. Please note that our frequency 
 perception is heavily influenced by the sound level (for more details, see studies by Fletcher and Munson on this topic).
 So, at this stage, it makes sense to adjust the volume to a comfortable medium loud level while you check the audio playback 
@@ -61,7 +61,7 @@ solution here, which would provide the best user experience without sacrificing 
 <br />
 
 #### Quick Checking Frequency Range and Response
-<a id="checking-frequency-range">To check out</a> if your playback system reproduces the wide enough frequency range for our exercises, we will need
+To check out if your playback system reproduces the wide enough frequency range for our exercises, we will need
 the special calibration test audio file. To generate it, simply select **File \| Make and Open Calibration Sine Waves File**
 from the main menu. After having been created, the file "1kHz__10kHz__100Hz__15kHz__40Hz Sinus Tones.wav" will be added
 to the **Playlist** and selected. To load it, you can just double-click on it or press the *Enter* key without changing the selection

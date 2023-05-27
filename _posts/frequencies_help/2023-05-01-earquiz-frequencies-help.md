@@ -17,7 +17,7 @@ tags:
   - [Checking Audio Playback](checking-audio-playback/)
   - [Adjusting Audio System](adjusting-audio-system/)
     * [Setting Volume Level](adjusting-audio-system/#setting-volume-level)
-    * [Quick Checking Frequency Range and Response](adjusting-audio-system/#checking-frequency-range)
+    * [Quick Checking Frequency Range and Response](adjusting-audio-system/#quick-checking-frequency-range-and-response)
   - [Equalization: Patterns, Sliders and Settings](#eq-patterns)
     * [Equalization Patterns](#eq-patterns)
     * [Equalization Sliders](#equalization-sliders)
