@@ -26,9 +26,9 @@ tags:
   - [The Learn Mode](learn-mode/)
   - [The Test Mode](test-mode/)
 * [How to Memorize Frequency Bands?](memorizing-frequencies/)
-* Creating, Editing and Saving Playlists
-  - Adding and Removing Tracks
-  - Exporting Playlists
+* [Creating, Editing and Saving Playlists](create-edit-save-playlists/)
+  - [Adding and Removing Tracks](create-edit-save-playlists/#adding-and-removing-tracks)
+  - [Exporting Playlists](create-edit-save-playlists/#exporting-playlists)
 * Making Training Audio Files
 * Converting Audio Files
 * Setting Default Length of Slice/Example
