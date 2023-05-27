@@ -84,7 +84,6 @@ on the right (f<sub>2</sub>) side of this peak, which have the 3dB roll-off (50%
 The absolute bandwidth (BW) in Hz is simply the difference between the highest and the lowest frequencies:
 
 <br />
-<br />
 ![]({{ site.urlimg }}Frequencies_Help/BW_form.png)
 <br />
 
@@ -98,7 +97,6 @@ To calculate the difference in octaves between f<sub>1</sub> and f<sub>2</sub>, 
 f<sub>1</sub> by 2 to get f<sub>2</sub>. If we translate this into algebraic expression, we get the following formula:
 
 <br />
-<br />
 ![]({{ site.urlimg }}Frequencies_Help/BWoct_form.png)
 <br />
 
@@ -109,16 +107,14 @@ they are not the same. In fact, they have inverse correlation: the bigger the Q,
 the smaller the Q. If we know the absolute BW in Hz and the center frequency of a filter, the Q is easily calculated:
 
 <br />
-<br />
-![]({{ site.urlimg }}Q_from_BW_form1.png)
+![]({{ site.urlimg }}Frequencies_Help/Q_from_BW_form1.png)
 <br />
 
 But as we mostly deal with relative BW in octaves, we might want to know, how to convert them to those weird Q numbers.
 This formula is a bit more complicated:
 
 <br />
-<br />
-![]({{ site.urlimg }}Q_from_BW_form2.png)
+![]({{ site.urlimg }}Frequencies_Help/Q_from_BW_form2.png)
 where N is number of octaves.
 
 Enough with algebra and formulas here. The one that converts Q factor to BW in octaves is rather big, by the way.
