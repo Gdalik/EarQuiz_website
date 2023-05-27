@@ -33,4 +33,4 @@ tags:
 * [Converting Audio Files](converting-audio/)
 * [Setting Default Length of Slice/Example](setting-default-slice-length/)
 * [Application Data and Settings](application-data-settings/)
-* [Annotations](#pink-noise)
+* [Annotations](annotations/)
