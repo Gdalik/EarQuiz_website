@@ -71,8 +71,6 @@ They consist of two parameters:
 
 Here is a filter frequency response scheme:
 
-<br />
-
 ![]({{ site.urlimg }}Frequencies_Help/BellFilterScheme.png)
 
 This type of filter is called *peaking* or *bell* band-pass filter.
@@ -83,7 +81,6 @@ on the right (f<sub>2</sub>) side of this peak, which have the 3dB roll-off (50%
 
 The absolute bandwidth (BW) in Hz is simply the difference between the highest and the lowest frequencies:
 
-<br />
 ![]({{ site.urlimg }}Frequencies_Help/BW_form.png)
 <br />
 
@@ -96,7 +93,6 @@ This is why bandwidth of filters is also measured in octaves.
 To calculate the difference in octaves between f<sub>1</sub> and f<sub>2</sub>, means to detect how many times we should multiply
 f<sub>1</sub> by 2 to get f<sub>2</sub>. If we translate this into algebraic expression, we get the following formula:
 
-<br />
 ![]({{ site.urlimg }}Frequencies_Help/BWoct_form.png)
 <br />
 
@@ -106,14 +102,12 @@ Even more often than BW, we encounter the *Q factor* (abbrev. from *Quality fact
 they are not the same. In fact, they have inverse correlation: the bigger the Q, the narrower the band; the wider the band, 
 the smaller the Q. If we know the absolute BW in Hz and the center frequency of a filter, the Q is easily calculated:
 
-<br />
 ![]({{ site.urlimg }}Frequencies_Help/Q_from_BW_form1.png)
 <br />
 
 But as we mostly deal with relative BW in octaves, we might want to know, how to convert them to those weird Q numbers.
 This formula is a bit more complicated:
 
-<br />
 ![]({{ site.urlimg }}Frequencies_Help/Q_from_BW_form2.png)<br />
 where N is number of octaves.
 
