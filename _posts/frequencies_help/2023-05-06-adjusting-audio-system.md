@@ -1,12 +1,13 @@
 ---
 layout: page
-title:  "Adjusting Audio System"
+title:  "Getting Started - Adjusting Audio System"
 breadcrumb: true
 categories:
     - manuals
     - earquiz-frequencies-help
 tags:
     - EarQuiz Help
+    - Getting Started
     - ear training on equalization
     - learning frequencies
     - adjusting audio system
