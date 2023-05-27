@@ -114,7 +114,7 @@ But as we mostly deal with relative BW in octaves, we might want to know, how to
 This formula is a bit more complicated:
 
 <br />
-![]({{ site.urlimg }}Frequencies_Help/Q_from_BW_form2.png)
+![]({{ site.urlimg }}Frequencies_Help/Q_from_BW_form2.png)<br />
 where N is number of octaves.
 
 Enough with algebra and formulas here. The one that converts Q factor to BW in octaves is rather big, by the way.
