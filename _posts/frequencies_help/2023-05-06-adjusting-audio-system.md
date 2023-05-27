@@ -75,8 +75,6 @@ possible (approximately -14dB).
 
 Here is the timeline table, to make it even clearer and easier to use:
 
-<br />
-
 | Frequency | Time (sec)  |
 |:----------|:------------|
 | 1 kHz     | 1&mdash;6   |
@@ -84,8 +82,6 @@ Here is the timeline table, to make it even clearer and easier to use:
 | 100 Hz    | 13&mdash;18 |
 | 15 kHz    | 19&mdash;24 |
 | 40 Hz     | 25&mdash;30 |
-
-<br />
 
 You should be able to hear the first three tones (1 kHz, 10 kHz and 100 Hz) clearly. If they vary in loudness, it is not a problem
 unless this difference is too big. If you cannot hear one or more of these, you have a serious issue with your playback system, which

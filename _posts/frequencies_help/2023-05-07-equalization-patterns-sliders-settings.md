@@ -114,7 +114,6 @@ where N is number of octaves.
 Enough with algebra and formulas here. The one that converts Q factor to BW in octaves is rather big, by the way.
 
 For *Bandwidth* options, I have used the values which can easily be thought of as music (tempered-scale) intervals:
-<br />
 
 | Bandwidth | Q      | Interval |
 |:----------|:-------|:---------|

@@ -23,8 +23,6 @@ the octave or 1/3-octave graphic equalizer (EQ) which boosts or cuts the amplitu
 automatically. After some more seconds, the EQ is switched off again, and the sound is returned to its normal 
 (non-equalized) state.
 
-<br />
-
 ![]({{ site.urlimg }}Frequencies_Help/Drill_structure.png)
 
 *Note: The current proportion of equalized part length versus sum length of non-equalized ones is hard-coded at 40/60 per cent.

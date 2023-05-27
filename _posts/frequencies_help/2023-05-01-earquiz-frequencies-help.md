@@ -25,7 +25,7 @@ tags:
   - [Working with External Audio Files](working-with-external-audio-files/)
   - [The Learn Mode](learn-mode/)
   - [The Test Mode](test-mode/)
-* [How to Memorize Frequency Bands?](#memorizing-frequencies)
+* [How to Memorize Frequency Bands?](memorizing-frequencies/)
 * Creating, Editing and Saving Playlists
   - Adding and Removing Tracks
   - Exporting Playlists
