@@ -22,9 +22,6 @@ you make a collection of tracks that would be reused in the future.
 
 {% include alert warning='Whether the application reloads the internal playlist or imports data from external playlist files, only the existing audio files of
 the supported formats are added as items.' %}
-
-> *Whether the application reloads the internal playlist or imports data from external playlist files, only the existing audio files of
-the supported formats are added as items.*
  
 #### Adding and Removing Tracks
 Different ways can be used to add audio tracks into the application **Playlist**:
