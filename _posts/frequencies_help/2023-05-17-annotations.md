@@ -1,3 +1,19 @@
+---
+layout: page
+title:  "Annotations"
+breadcrumb: true
+categories:
+    - manuals
+    - earquiz-frequencies-help
+tags:
+    - EarQuiz Help
+    - ear training on equalization
+    - learning frequencies
+    - annotations
+    - pink noise
+    - peak normalization
+    - audio file formats
+---
 #### Pink Noise
 
 Pink noise is a kind of random noise which has equal energy in different octave ranges. It derives from white noise which
