@@ -69,8 +69,7 @@ restores the previously saved values for already known ones.
 The current **Playlist** and the latest audio source used are stored between sessions. However, I highly recommend 
 saving the collections you would like to use repeatedly with **File \| Export Playlist...** options.
 
-{% include alert text='Just a note!
-![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)***Useful Tip***
+{% include alert text='![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)***Useful Tip***
  
 *Before doing training exercises in the **Learn** and the **Test** modes, prepare your own collection of trimmed audio files, 
 using the above-described application tools. Then uncheck the **Controls \| Start Playing After Loading Track in Preview Mode** 
