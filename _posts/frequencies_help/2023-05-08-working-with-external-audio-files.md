@@ -69,10 +69,12 @@ restores the previously saved values for already known ones.
 The current **Playlist** and the latest audio source used are stored between sessions. However, I highly recommend 
 saving the collections you would like to use repeatedly with **File \| Export Playlist...** options.
 
-> ![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)***Useful Tip***
-> 
-> *Before doing training exercises in the **Learn** and the **Test** modes, prepare your own collection of trimmed audio files, 
+{% include alert text='Just a note!
+![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)***Useful Tip***
+ 
+*Before doing training exercises in the **Learn** and the **Test** modes, prepare your own collection of trimmed audio files, 
 using the above-described application tools. Then uncheck the **Controls \| Start Playing After Loading Track in Preview Mode** 
 option in the main menu if checked. [Adjust the volume level](#setting-volume-level) for your EQ Pattern and EQ Settings.
 Load external audio files as audio sources for your exercises without playing them in the **Preview** mode. This will help you to
 leave the volume knobs untouched as long as possible, while navigating through different audio sources/tracks.*
+' %}
