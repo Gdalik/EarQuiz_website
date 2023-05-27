@@ -31,6 +31,6 @@ tags:
   - [Exporting Playlists](create-edit-save-playlists/#exporting-playlists)
 * [Making Training Audio Files](making-training-audio/)
 * [Converting Audio Files](converting-audio/)
-* Setting Default Length of Slice/Example
+* [Setting Default Length of Slice/Example](setting-default-slice-length/)
 * Application Data and Settings
 * [Annotations](#pink-noise)
