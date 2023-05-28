@@ -7,7 +7,7 @@
 layout: frontpage
 widget1:
   title: "Software"
-  # url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'EQ_Frequencies/'
   image: EQ_Freq_Screenshot_2.png
   text: 'EarQuiz Frequencies: learn frequency bands, equalize consciously!'
 widget2:
