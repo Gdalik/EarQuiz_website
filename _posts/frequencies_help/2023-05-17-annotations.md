@@ -39,7 +39,8 @@ OGG audio files can be added to the **Playlist**, but they cannot be played with
 player backend neither on Windows nor on macOS. If you try to load an OGG file, you will get the error message
 with option to proceed with conversion to WAVE or AIFF. There is also a known backend issue with incorrect FLAC files'
 playback position on macOS, which may occur when starting playing from a non-zero position. To work around
-these format problems, you can convert audio files to WAVE or AIFF beforehand by selecting them and choosing 
+these format problems, you can [convert audio files to WAVE or AIFF]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/converting-audio) 
+beforehand by selecting them and choosing 
 **File | Convert Selected Files...** from the main menu or the similar option from the right-click context menu of the **Playlist**.
 
 [< Back to "The Basic Training Method"]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/basic-training-method/)<br />
