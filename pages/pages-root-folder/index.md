@@ -9,7 +9,7 @@ widget1:
   title: "Software"
   url: '/EQ_Frequencies/'
   image: EQ_Freq_Screenshot_2.png
-  text: '<a href="{{ site.url }}/EQ_Frequencies/">EarQuiz Frequencies</a>: learn frequency bands, equalize consciously!'
+  text: '<a href="{ site.url }/EQ_Frequencies/">EarQuiz Frequencies</a>: learn frequency bands, equalize consciously!'
 widget2:
   title: "Download"
   # url: ''
