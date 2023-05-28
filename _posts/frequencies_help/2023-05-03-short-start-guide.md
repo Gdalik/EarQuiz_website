@@ -16,7 +16,7 @@ Let's get started!
 1. With pink noise, selected as an audio source, [switch the application to the Learn mode]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/learn-mode), using the corresponding
 button on the main window, the main menu item or the keyboard shortcut, or just by changing an [EQ slider]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/equalization-patterns-sliders-settings/#equalization-sliders) handle position.
 2. With pink noise examples, played in [the Learn mode]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/learn-mode):
-     * [Check/set up your audio playback system]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/learn-mode/checking-audio-playback). 
+     * [Check/set up your audio playback system]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/checking-audio-playback). 
      * [Adjust the volume level]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#setting-volume-level).
 3. [Make sure the frequency range/response of your playback audio system is decent enough]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#quick-checking-frequency-range-and-response).
 4. In [the Learn mode]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/learn-mode), with pink noise as an audio source and the first [equalization pattern]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/equalization-patterns-sliders-settings/#equalization-patterns),
