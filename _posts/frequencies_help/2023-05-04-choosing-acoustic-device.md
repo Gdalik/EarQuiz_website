@@ -17,7 +17,7 @@ tags:
 If you can do these exercises in a well treated room with studio quality monitors, it is great, 
 but not obligatory. Decent consumer systems that do not add obvious distortion, crackling noises, etc. to sound 
 at tolerably loud levels, and reproduce a wide frequency range 
-([see further](#checking-frequency-range) about checking this), can also meet our requirements. 
+([see further]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#quick-checking-frequency-range-and-response) about checking this), can also meet our requirements. 
 
 You can use quality headphones as well. It is much easier and cheaper to achieve the accurate sound with them, 
 one of the main reasons being that it is not affected by the room acoustics. Be aware, though, that pitch and loudness 
