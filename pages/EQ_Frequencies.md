@@ -17,7 +17,7 @@ Whether you make a living from music or this is your hobby; whether you are a se
 trying to develop or master the ability to aurally recognize frequency bands; 
 whether you are an audio specialist/artist of any kind (performer, producer, recording/mixing/mastering/live sound engineer, audio designer, DJ, etc.) or
 just someone who wants to teach himself/herself how to adjust an audio system with equalizer by ear, this application
-is for you! Educators in the audio industry may use this software to produce superb quality training and test materials for their students almost in no time.
+is for you! Educators in the audio industry may use this software to [produce superb quality training and test materials]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio) for their students almost in no time.
 
 This application is based on (and deeply inspired by) the world-renowned *[Golden Ears](https://goldenearsaudio.com/)* method of David Moulton, 
 whose course is half dedicated to building this essential critical listening skill.
