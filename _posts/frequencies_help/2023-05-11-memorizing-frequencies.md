@@ -17,7 +17,7 @@ personal skills, experience, peculiarities of perception, kind of audio material
 
 ![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)If you are a musician, and especially if you have a perfect pitch, trying to
 mentally connect center frequencies of band-pass filters with musical notes, closest to them, may be a good place to start.
-This works best with pink noise. [The higher the Q factor and the more the frequency gain](#equalization-settings), the stronger the impression of a certain pitch.
+This works best with pink noise. [The higher the Q factor and the more the frequency gain]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/equalization-patterns-sliders-settings/#equalization-settings), the stronger the impression of a certain pitch.
 
 Here is a screenshot of the 30-band in-app EQ with labels of musical notes that *approximately* match the filters' center frequencies.<br />
 
