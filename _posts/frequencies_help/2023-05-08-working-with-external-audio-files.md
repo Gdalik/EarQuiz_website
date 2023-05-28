@@ -20,7 +20,7 @@ There are different ways to load external audio into the software:
 - Select **File \| Open Folder...** from the main menu.
 - Drag & Drop files/folders to the **Playlist** from anywhere possible.
 
-The methods above can be used both for locating audio files of [the supported formats](#supported-audio-formats) directly
+The methods above can be used both for locating audio files of [the supported formats]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#supported-audio-formats) directly
 or through playlists. Currently, parsing of M3U, M3U8, PLS and XSPF playlists is supported.
 
 After adding audio files to the **Playlist**, you can load each of them in various ways.
