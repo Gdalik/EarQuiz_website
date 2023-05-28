@@ -40,7 +40,7 @@ with in-app training we also run into a kind of compromise between sound quality
 exercises with different audio sources and settings.
 
 As my priority is to achieve the best possible sound quality without clipping as a side effect of boosting frequencies,
-I have decided to apply to every audio source of single-band exercise the preventive [peak normalization](#peak-normalization) with opposite number to current absolute value
+I have decided to apply to every audio source of single-band exercise the preventive [peak normalization]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization) with opposite number to current absolute value
 of frequency gain.
 For dual-band EQ patterns, I have added extra-headroom from 1 up to 3dB. 
 
@@ -67,7 +67,7 @@ the special calibration test audio file. To generate it, simply select **File \|
 from the main menu. After having been created, the file "1kHz__10kHz__100Hz__15kHz__40Hz Sinus Tones.wav" will be added
 to the **Playlist** and selected. To load it, you can just double-click on it or press the *Enter* key without changing the selection
 (this will automatically set the relevant **Audio Source** mode and switch the application to the **Preview** mode as well; 
-see details about [working with external audio files](#working-with-external-audio-files)).
+see details about [working with external audio files]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/working-with-external-audio-files)).
 
 The name of the file exactly reflects its content. There are five sinus tones with different frequencies, lasting 5 seconds
 each, and separated with 1 second of silence from each other. All the tones have the equal amplitude, which is 20% of the highest
