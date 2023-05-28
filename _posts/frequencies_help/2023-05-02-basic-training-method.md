@@ -31,7 +31,7 @@ Therefore, if we have 10 seconds length example, this would be: 3sec **EQ Off**,
 The option to adjust this setting is planned to be introduced in future versions.*
 
 Regardless of the audio source material and the EQ settings, the recommended approach remains the same.
-- First, you **learn** and warm-up by listening to examples, trying to [memorize and internalize]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/memorizing-frequencies) 
+- First, you **learn** and warm-up by listening to examples, trying to [memorize and internalize]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/memorizing-frequencies) 
 the sound of different frequency ranges. <br /> *Don't be scared; relax, listen, watch the
 highlighted sliders and frequency values on the screen, and let your brains do the job ;-)!*
 - Second, you take a **test** which is nothing but a sequence of ten similar examples with randomly chosen frequency values 
