@@ -73,6 +73,6 @@ saving the collections you would like to use repeatedly with **File \| Export Pl
  
 *Before doing training exercises in the **Learn** and the **Test** modes, prepare your own collection of trimmed audio files, 
 using the above-described application tools. Then uncheck the **Controls \| Start Playing After Loading Track in Preview Mode** 
-option in the main menu if checked. [Adjust the volume level](#setting-volume-level) for your EQ Pattern and EQ Settings.
+option in the main menu if checked. [Adjust the volume level]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#setting-volume-level) for your EQ Pattern and EQ Settings.
 Load external audio files as audio sources for your exercises without playing them in the **Preview** mode. This will help you to
 leave the volume knobs untouched as long as possible, while navigating through different audio sources/tracks.*
