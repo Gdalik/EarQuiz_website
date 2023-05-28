@@ -18,7 +18,7 @@ tags:
   - [Adjusting Audio System](adjusting-audio-system/)
     * [Setting Volume Level](adjusting-audio-system/#setting-volume-level)
     * [Quick Checking Frequency Range and Response](adjusting-audio-system/#quick-checking-frequency-range-and-response)
-  - [Equalization: Patterns, Sliders and Settings](equalization-patterns-sliders-settings)
+  - [Equalization: Patterns, Sliders and Settings](equalization-patterns-sliders-settings/)
     * [Equalization Patterns](equalization-patterns-sliders-settings/)
     * [Equalization Sliders](equalization-patterns-sliders-settings/#equalization-sliders)
     * [Equalization Settings](equalization-patterns-sliders-settings/#equalization-settings)
