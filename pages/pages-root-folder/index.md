@@ -7,7 +7,7 @@
 layout: frontpage
 widget1:
   title: "Software"
-  url: 'EQ_Frequencies/'
+  url: '/EQ_Frequencies/'
   image: EQ_Freq_Screenshot_2.png
   text: 'EarQuiz Frequencies: learn frequency bands, equalize consciously!'
 widget2:
