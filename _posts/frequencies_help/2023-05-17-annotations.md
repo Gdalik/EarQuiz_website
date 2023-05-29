@@ -23,15 +23,15 @@ gives the *impression* of high-frequencies dominance.
 In pink noise, the energy falls proportionally to frequency. I.e., it is similar to white noise, but with 3 dB/octave attenuation, starting from 1 Hz. 
 This gives a much more even result from a human ear perspective, and the spectrum of pink noise is the closest one to an average music signal.
 
-[< Back to "The Basic Training Method"]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/basic-training-method/)
+[< Back to "The Basic Training Method"][1]
 
 #### Peak Normalization
 
 Peak normalization of an audio file or its part is a linear change of its whole gain that makes the amplitude level of its (PCM) sample 
 with the maximum amplitude equal to a certain value (in dB).
 
-[< Back to "Checking Audio Playback"]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/checking-audio-playback/)<br />
-[< Back to "Setting Volume Level"]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#setting-volume-level)
+[< Back to "Checking Audio Playback"][2]<br />
+[< Back to "Setting Volume Level"][3]
 
 #### Supported Audio Formats
 The fully supported audio formats are: WAVE, AIFF, MP3 and FLAC. The OGG format is half-supported.
@@ -39,9 +39,15 @@ OGG audio files can be added to the **Playlist**, but they cannot be played with
 player backend neither on Windows nor on macOS. If you try to load an OGG file, you will get the error message
 with option to proceed with conversion to WAVE or AIFF. There is also a known backend issue with incorrect FLAC files'
 playback position on macOS, which may occur when starting playing from a non-zero position. To work around
-these format problems, you can [convert audio files to WAVE or AIFF]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/converting-audio) 
+these format problems, you can [convert audio files to WAVE or AIFF][4] 
 beforehand by selecting them and choosing 
 **File | Convert Selected Files...** from the main menu or the similar option from the right-click context menu of the **Playlist**.
 
-[< Back to "The Basic Training Method"]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/basic-training-method/)<br />
-[< Back to "Working with External Audio Files"]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/working-with-external-audio-files/)
+[< Back to "The Basic Training Method"][1]<br />
+[< Back to "Working with External Audio Files"][5]
+
+[1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/basic-training-method/
+[2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/checking-audio-playback/
+[3]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#setting-volume-level
+[4]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/converting-audio
+[5]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/working-with-external-audio-files/

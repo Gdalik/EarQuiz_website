@@ -20,7 +20,7 @@ There are different ways to load external audio into the software:
 - Select **File \| Open Folder...** from the main menu.
 - Drag & Drop files/folders to the **Playlist** from anywhere possible.
 
-The methods above can be used both for locating audio files of [the supported formats]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#supported-audio-formats) directly
+The methods above can be used both for locating audio files of [the supported formats][1] directly
 or through playlists. Currently, parsing of M3U, M3U8, PLS and XSPF playlists is supported.
 
 After adding audio files to the **Playlist**, you can load each of them in various ways.
@@ -73,6 +73,9 @@ saving the collections you would like to use repeatedly with **File \| Export Pl
  
 *Before doing training exercises in the **Learn** and the **Test** modes, prepare your own collection of trimmed audio files, 
 using the above-described application tools. Then uncheck the **Controls \| Start Playing After Loading Track in Preview Mode** 
-option in the main menu if checked. [Adjust the volume level]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#setting-volume-level) for your EQ Pattern and EQ Settings.
+option in the main menu if checked. [Adjust the volume level][2] for your EQ Pattern and EQ Settings.
 Load external audio files as audio sources for your exercises without playing them in the **Preview** mode. This will help you to
 leave the volume knobs untouched as long as possible, while navigating through different audio sources/tracks.*
+
+[1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#supported-audio-formats
+[2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#setting-volume-level
