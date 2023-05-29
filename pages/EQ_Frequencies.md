@@ -17,9 +17,9 @@ Whether you make a living from music or this is your hobby; whether you are a se
 trying to develop or master the ability to aurally recognize frequency bands; 
 whether you are an audio specialist/artist of any kind (performer, producer, recording/mixing/mastering/live sound engineer, audio designer, DJ, etc.) or
 just someone who wants to teach himself/herself how to adjust an audio system with equalizer by ear, this application
-is for you! Educators in the audio industry may use this software to [produce superb quality training and test materials]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio) for their students almost in no time.
+is for you! Educators in the audio industry may use this software to [produce superb quality training and test materials][1] for their students almost in no time.
 
-This application is based on (and deeply inspired by) the world-renowned *[Golden Ears](https://goldenearsaudio.com/)* method of David Moulton, 
+This application is based on (and deeply inspired by) the world-renowned *[Golden Ears][2]* method of David Moulton, 
 whose course is half dedicated to building this essential critical listening skill.
 
 The overall training process involves ongoing learning and testing yourself. In the *Learn* mode, you listen to the pink noise
@@ -27,7 +27,7 @@ or music (or other external audio) excerpts with switched off and on 1-octave or
 certain spectral ranges. Then in the *Test* mode you are given a sequence of 10 similar examples, where you try to guess,
 which frequencies are boosted or cut, and you get scored.
 
-The program is [Free Software](https://www.gnu.org/philosophy/free-sw.html), distributed under [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html). 
+The program is [Free Software][3], distributed under [GNU GPL v3 License][4]. 
 It is free for any use, either personal or commercial!
 
 ### Features
@@ -49,3 +49,8 @@ It is free for any use, either personal or commercial!
 - Exporting M3U and M3U8 playlists supported.
 - Convenient and flexible playlist navigation.
 - And other features...
+
+[1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio 
+[2]: https://goldenearsaudio.com/
+[3]: https://www.gnu.org/philosophy/free-sw.html
+[4]: https://www.gnu.org/licenses/gpl-3.0.html
