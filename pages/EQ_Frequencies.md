@@ -22,7 +22,7 @@ is for you! Educators in the audio industry may use this software to [produce su
 This application is based on (and deeply inspired by) the world-renowned *[Golden Ears][2]* method of David Moulton, 
 whose course is half dedicated to building this essential critical listening skill.
 
-The overall training process involves ongoing learning and testing yourself. In the *Learn* mode, you listen to the pink noise
+The overall training process involves ongoing learning and testing yourself. In the *Learn* mode, you listen to the [pink noise][5]
 or music (or other external audio) excerpts with switched off and on 1-octave or 1/3-octave graphic EQ, boosting or cutting frequency bands within
 certain spectral ranges. Then in the *Test* mode you are given a sequence of 10 similar examples, where you try to guess,
 which frequencies are boosted or cut, and you get scored.
@@ -54,3 +54,4 @@ It is free for any use, either personal or commercial!
 [2]: https://goldenearsaudio.com/
 [3]: https://www.gnu.org/philosophy/free-sw.html
 [4]: https://www.gnu.org/licenses/gpl-3.0.html
+[5]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#pink-noise
