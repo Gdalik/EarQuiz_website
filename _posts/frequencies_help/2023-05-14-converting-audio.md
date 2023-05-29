@@ -32,3 +32,5 @@ When the original sampling rate of a file is changed, it is labeled as *Resample
 
 After checking out or adjusting all the settings, press the **Convert** button to proceed.
 When done, the new file(s) would be added to the **Playlist** after its/their source file(s).
+
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)

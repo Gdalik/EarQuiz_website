@@ -88,5 +88,7 @@ unless this difference is too big. If you cannot hear one or more of these, you 
 must be resolved before going on. In case only the last two tones (15 kHz and 40 Hz) are barely audible or even inaudible, you can
 proceed, but be aware that you may have difficulties hearing/identifying the low or the high extremes of the spectrum correspondingly. 
 
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
+
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization
 [2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/working-with-external-audio-files

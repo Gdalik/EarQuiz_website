@@ -72,3 +72,5 @@ which may contain only audio file paths/URLs at different lines. The only differ
 On macOS, you can use them interchangeably, but on Windows the system encoding, which may be different, is used for M3U files, which may cause problems 
 with non-Latin characters.
 So, M3U8 is more recommended in general case.
+
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)

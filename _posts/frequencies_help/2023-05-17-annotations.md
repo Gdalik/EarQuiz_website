@@ -46,6 +46,8 @@ beforehand by selecting them and choosing
 [< Back to "The Basic Training Method"][1]<br />
 [< Back to "Working with External Audio Files"][5]
 
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
+
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/basic-training-method/
 [2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/checking-audio-playback/
 [3]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#setting-volume-level

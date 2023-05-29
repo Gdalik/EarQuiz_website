@@ -46,3 +46,5 @@ this option will result in infinite loop until the playback is stopped.
 
 Moving a slider handle (or two slider handles for dual-band patterns) will force the boost/cut of certain frequency band(s), and
 this will become the first element of a sequence regardless of the EQ bands order set.
+
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)

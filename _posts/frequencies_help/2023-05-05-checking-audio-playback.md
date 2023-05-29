@@ -28,4 +28,6 @@ on contemporary machines, the playback of an example should start.
 *Here, you may want to proceed with the training process. But I suggest that we should **adjust your
 audio system** first.*
 
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
+
 [1]: ({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization

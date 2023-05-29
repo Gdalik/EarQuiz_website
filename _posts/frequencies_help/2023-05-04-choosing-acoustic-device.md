@@ -24,4 +24,6 @@ one of the main reasons being that it is not affected by the room acoustics. Be 
 perception in headphones may significantly differ from the experience with loudspeakers. And you cannot feel the sound 
 with your whole body this way, which may be especially important for analysing the lower end of the spectrum.
 
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
+
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#quick-checking-frequency-range-and-response

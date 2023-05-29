@@ -44,3 +44,5 @@ The sampling rate of exercise audio files is the same as the sampling rate of th
 but you can choose another one from the corresponding box.
 
 After checking out or adjusting all the settings, press the **Make** button to proceed.
+
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)

@@ -144,3 +144,5 @@ while going through the same patterns,
 you can try lowering the frequency gain value, and challenge your ears to hear the subtler and subtler equalization.
 
 When locked, this state and values themselves are stored between sessions.
+
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)

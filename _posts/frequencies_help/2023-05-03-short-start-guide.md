@@ -36,6 +36,8 @@ Adjust the volume level where needed.
 13. After becoming familiar with the built-in EQ patterns, try practicing with custom [EQ Settings][9].
 14. Explore more features, read more documentation (if needed).
 
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
+
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/learn-mode
 [2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/equalization-patterns-sliders-settings/#equalization-sliders
 [3]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/#quick-checking-frequency-range-and-response

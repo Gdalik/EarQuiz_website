@@ -31,3 +31,5 @@ inside each of these JSON data files. Hashing big files is not a very fast proce
 and platform-independent way. That said, you can even transfer these  **.afab* files
 to a similar folder on another computer, and the copy of the application, running on that machine, would be able to apply these
 settings/data to the identical copies of your audio files.
+
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)

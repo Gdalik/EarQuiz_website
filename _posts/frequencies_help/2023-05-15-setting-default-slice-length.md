@@ -26,3 +26,5 @@ The default length of an external audio file slice is 12 sec. To set another def
 
 However, if the slice length has already been set before for the particular loaded audio file, it will override 
 the default value.
+
+[< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
