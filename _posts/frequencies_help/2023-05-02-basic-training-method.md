@@ -13,8 +13,8 @@ tags:
 
 The overall training process involves ongoing learning and testing yourself.
 Both learning and test exercises consist of audio samples, which we will call *examples*. Each example is a 10-30 
-seconds' long chunk of either **[pink noise]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#pink-noise)** (generated on each application launch) or **music**.  
-Technically, any external audio file of a [supported format]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#supported-audio-formats), stored locally on your device, can be used instead for the latter.
+seconds' long chunk of either **[pink noise][1]** (generated on each application launch) or **music**.  
+Technically, any external audio file of a [supported format][2], stored locally on your device, can be used instead for the latter.
 So, you could further experiment with recordings of speech, different sounds, natural or synthetic noises, 
 whatever you have in your audio collection.
 
@@ -31,8 +31,12 @@ Therefore, if we have 10 seconds length example, this would be: 3sec **EQ Off**,
 The option to adjust this setting is planned to be introduced in future versions.*
 
 Regardless of the audio source material and the EQ settings, the recommended approach remains the same.
-- First, you **learn** and warm-up by listening to examples, trying to [memorize and internalize]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/memorizing-frequencies) 
+- First, you **learn** and warm-up by listening to examples, trying to [memorize and internalize][3] 
 the sound of different frequency ranges. <br /> *Don't be scared; relax, listen, watch the
 highlighted sliders and frequency values on the screen, and let your brains do the job ;-)!*
 - Second, you take a **test** which is nothing but a sequence of ten similar examples with randomly chosen frequency values 
 and boost/cut options (where available), which you guess, and get a score to track your progress.
+
+[1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#pink-noise
+[2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#supported-audio-formats
+[3]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/memorizing-frequencies
