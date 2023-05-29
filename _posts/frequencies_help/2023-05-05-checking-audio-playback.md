@@ -22,8 +22,10 @@ option is selected in the **Audio Source** window.
 
 Are you ready to hear the sound :-)? Just click the 
 **Learn** mode button **or** change the position of any EQ sliders' handle by dragging/clicking on it, which will switch the application
-to the *Learn* mode automatically. After some processing ([peak normalization]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization) and equalization) and loading, which usually takes fractions of second
+to the *Learn* mode automatically. After some processing ([peak normalization][1] and equalization) and loading, which usually takes fractions of second
 on contemporary machines, the playback of an example should start.
 
 *Here, you may want to proceed with the training process. But I suggest that we should **adjust your
 audio system** first.*
+
+[1]: ({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization
