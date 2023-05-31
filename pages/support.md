@@ -3,6 +3,18 @@ layout: page
 title: "Support EarQuiz"
 subheadline: "How to support this project?"
 permalink: "/support/"
+tags:
+    - EarQuiz
+    - technical ear training
+    - Facebook
+    - Twitter
+    - Reddit
+    - VK
+    - WhatsApp
+    - Telegram
+    - Buy Me a Coffee
+    - Patreon
+    - Boosty
 ---
 
 If you want to support the EarQuiz project, there are different ways to do this:
