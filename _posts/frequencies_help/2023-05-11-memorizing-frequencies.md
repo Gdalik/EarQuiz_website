@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "How to Memorize Frequency Bands?"
+image:
+    homepage: Frequencies_Help/Frequency-Note_HP.png
 breadcrumb: true
 categories:
     - manuals
