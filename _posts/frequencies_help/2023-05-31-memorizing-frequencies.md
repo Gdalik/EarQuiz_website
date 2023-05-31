@@ -14,8 +14,7 @@ tags:
     - learning frequencies
     - memorizing frequencies
 ---
-Here are some tips that could help you to memorize and internalize the frequency bands. Think of them as of reference
-points for your mind rather than direct guidance. They may be more or less helpful, depending on different factors:
+Think of them as of reference points for your mind rather than direct guidance. They may be more or less helpful, depending on different factors:
 personal skills, experience, peculiarities of perception, kind of audio material, equalization settings, listening conditions, etc.
 
 ![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)If you are a musician, and especially if you have a perfect pitch, trying to
