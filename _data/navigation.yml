@@ -26,3 +26,7 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
+- title: "Support"
+  url: "/support/"
+  side: right
