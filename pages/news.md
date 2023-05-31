@@ -9,4 +9,4 @@ permalink: "/news/"
 :   [https://earquiz.org][1] website created
 
 
- [1]: {{ site.url }}
+ [1]: /
