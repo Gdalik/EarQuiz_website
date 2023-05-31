@@ -40,7 +40,7 @@ that developing these skills is a must not only for audio professionals, but for
 and artists who deal with sound recording or amplification.
 
 Currently, this is my 100% enthusiast project, and I have no idea how big it will grow. So far, it consists of one software
-product *EarQuiz Frequencies* for Windows and macOS platforms. This is an application for ear training on equalization.
+product [*EarQuiz Frequencies*][5] for Windows and macOS platforms. This is an application for ear training on equalization.
 Really knowing frequency ranges and being able to identify which of them are boosted or cut is definitely one of the most 
 important skills. David Moulton dedicated the half of his paid course to exercises on recognizing frequencies, by the way! 
 There are some similar applications on the market, but I don't know any of them that provides the same amount of features, 
@@ -65,3 +65,4 @@ Gdaliy Garmiza.
  [2]: https://www.python.org/
  [3]: https://spotify.github.io/pedalboard/
  [4]: https://www.riverbankcomputing.com/software/pyqt/
+ [5]: {{ site.url }}{{ site.baseurl }}/EQ_Frequencies/
