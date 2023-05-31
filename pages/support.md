@@ -19,3 +19,9 @@ If you want to support the EarQuiz project, there are different ways to do this:
 <a href="https://www.freepik.com/free-vector/social-media-icons-vector-set-with-facebook-instagram-twitter-tiktok-youtube-logos_17221195.htm#query=facebook%20logo%20png&position=1&from_view=keyword&track=ais"><small>Image by rawpixel.com on Freepik</small></a><br />
 
 * Make a one-time or a recurring donation
+
+[![Buy Me a Coffee]({{ site.urlimg }}Social/bmc-logo.png)](https://www.buymeacoffee.com/gdalik)
+[![Patreon]({{ site.urlimg }}Social/Patreon.png)](https://www.patreon.com/EarQuiz)
+[![Boosty]({{ site.urlimg }}Social/Boosty.png)](https://boosty.to/earquiz)
+
+*Buy Me a Coffee* and *Boosty* can be used for both. *Patreon* is a membership-only platform.
