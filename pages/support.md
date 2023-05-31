@@ -20,8 +20,8 @@ If you want to support the EarQuiz project, there are different ways to do this:
 
 * Make a one-time or a recurring donation
 
-[![Buy Me a Coffee]({{ site.urlimg }}Social/bmc-logo.png)](https://www.buymeacoffee.com/gdalik)
-[![Patreon]({{ site.urlimg }}Social/Patreon.png)](https://www.patreon.com/EarQuiz)
+[![Buy Me a Coffee]({{ site.urlimg }}Social/bmc-logo.png)](https://www.buymeacoffee.com/gdalik)|
+[![Patreon]({{ site.urlimg }}Social/Patreon.png)](https://www.patreon.com/EarQuiz)|
 [![Boosty]({{ site.urlimg }}Social/Boosty.png)](https://boosty.to/earquiz)
 
 *Buy Me a Coffee* and *Boosty* can be used for both. *Patreon* is a membership-only platform.
