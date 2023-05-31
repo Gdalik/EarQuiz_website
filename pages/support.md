@@ -9,6 +9,6 @@ If you want to support the EarQuiz project, there are different ways to do this:
 
 * Share a link to this website
 
-![Facebook](/Social/facebook.png)
+![Facebook](Social/facebook.png)
 
 * Make a one-time or a recurring donation
