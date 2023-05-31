@@ -17,7 +17,7 @@ widget2:
   text: 'Waiting for releases...'
 widget3:
   title: "News"
-  # url: ''
+  url: '/news/'
   image: press-release.png
   text: 'No news...'
 
