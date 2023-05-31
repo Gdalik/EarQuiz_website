@@ -30,4 +30,4 @@ audio system** first.*
 
 [< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
 
-[1]: ({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization
+[1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization
