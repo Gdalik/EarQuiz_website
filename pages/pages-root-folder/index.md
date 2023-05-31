@@ -19,7 +19,7 @@ widget3:
   title: "News"
   url: '/news/'
   image: press-release.png
-  text: 'No news...'
+  text: '<b>2023-05-31</b>: 'https://earquiz.org website created'
 
 permalink: /index.html
 homepage: true
