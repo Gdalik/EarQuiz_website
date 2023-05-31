@@ -9,7 +9,7 @@ If you want to support the EarQuiz project, there are different ways to do this:
 
 * Share a link to this website
 
-![Facebook]({{ site.urlimg }}Social/facebook.png)[https://www.facebook.com/sharer/sharer.php?u={{ site.url }}]
+[![Facebook]({{ site.urlimg }}Social/facebook.png)](https://www.facebook.com/sharer/sharer.php?u={{ site.url }})
 ![Twitter]({{ site.urlimg }}Social/twitter.png)
 ![Reddit]({{ site.urlimg }}Social/reddit.png)
 ![VK]({{ site.urlimg }}Social/vk.png)
