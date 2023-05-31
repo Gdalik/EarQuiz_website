@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "How to Memorize Frequency Bands?"
+teaser: "Here are some tips that could help you to memorize and internalize the frequency bands."
 image:
     homepage: Frequency-Note_HP.png
 breadcrumb: true
