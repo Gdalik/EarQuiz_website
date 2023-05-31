@@ -35,7 +35,7 @@ It is free for any use, either personal or commercial!
 - Internal pink noise generator or any external audio file in WAV, AIFF, FLAC or MP3 format as audio source.
 - 15 built-in presets with increasing difficulty.
 - 1-octave (10-band) and 1/3-octave (30-band) EQ.
-- Exercise patterns with boost or/and cut frequencies.
+- Exercise patterns with boost and/or cut frequencies.
 - Single-band and Dual-band exercise patterns.
 - Custom adjustable frequency gain level from ±1 to ±18 dB.
 - Custom adjustable filter bandwidth/Q-factor.
