@@ -25,3 +25,5 @@ If you want to support the EarQuiz project, there are different ways to do this:
 [![Boosty]({{ site.urlimg }}Social/Boosty.png)](https://boosty.to/earquiz)
 
 *Buy Me a Coffee* and *Boosty* can be used for both. *Patreon* is a membership-only platform.
+
+Any help is valuable and highly appreciated! **Thanks in advance!**

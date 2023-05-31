@@ -21,8 +21,8 @@ Hi! My name is Gdaliy Garmiza (aka GdaliySax). I'm a professional live and studi
 and educational experience in audio production and engineering behind my back. Though never being or aiming to become an IT specialist, 
 I have enjoyed coding for myself since my childhood. This is my first open source experience. I really appreciate the idea
 of taking some great free things, developed by other people, making something valuable of them, and giving it out to the world for free in exchange.
-And another exceptional thing about an open source project is that anyone can contribute to it in different ways: spreading a word about it, 
-making donations, testing it, proposing new features or writing own code.
+And another exceptional thing about an open source project is that anyone can contribute to it in different ways: [spreading a word about it, 
+making donations][6], testing it, proposing new features or writing own code.
 
 ### Why technical ear training and what the hell is it?
 
@@ -66,3 +66,4 @@ Gdaliy Garmiza.
  [3]: https://spotify.github.io/pedalboard/
  [4]: https://www.riverbankcomputing.com/software/pyqt/
  [5]: {{ site.url }}{{ site.baseurl }}/EQ_Frequencies/
+ [6]: {{ site.url }}{{ site.baseurl }}/support/
