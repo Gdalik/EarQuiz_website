@@ -50,8 +50,11 @@ It is free for any use, either personal or commercial!
 - Convenient and flexible playlist navigation.
 - And other features...
 
+[See Help for details >][6]
+
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio 
 [2]: https://goldenearsaudio.com/
 [3]: https://www.gnu.org/philosophy/free-sw.html
 [4]: https://www.gnu.org/licenses/gpl-3.0.html
 [5]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#pink-noise
+[6]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/
