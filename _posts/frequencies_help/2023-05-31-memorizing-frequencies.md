@@ -61,9 +61,10 @@ Take pauses. Do not torture your ears and brains too much.
 Train regularly, not long: 2*&mdash;*4 exercises per session may be enough. 
 Try to build your personal timbre/frequency vocabulary through daily practice!*
 
-***And, last but not least. Even the small recurring donation to the project not only helps to support and develop the software, but it is a great source of additional motivation for you to
+***And, last but not least. Even [the small recurring donation][2] to the project not only helps to support and develop the software, but it is a great source of additional motivation for you to
 keep practicing!***
 
 [< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
 
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/equalization-patterns-sliders-settings/#equalization-settings
+[2]: {{ site.url }}{{ site.baseurl }}/support/
