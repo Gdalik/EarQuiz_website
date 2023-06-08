@@ -25,9 +25,10 @@ Are you ready to hear the sound :-)? Just click the
 to the *Learn* mode automatically. After some processing ([peak normalization][1] and equalization) and loading, which usually takes fractions of second
 on contemporary machines, the playback of an example should start.
 
-*Here, you may want to proceed with the training process. But I suggest that we should **adjust your
-audio system** first.*
+*Here, you may want to proceed with the training process. But I suggest that we should [adjust your
+audio system][2] first.*
 
 [< Back to the Table of Contents]({{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/)
 
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#peak-normalization
+[2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/adjusting-audio-system/
