@@ -41,13 +41,13 @@ which may have an effect, similar to particular equalization: big and small boxe
 
 ![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)You can associate middle frequencies boost with vowel sounds:
 
-| Boosted frequency band | Vowel sound |
-|:----------------------:|:-----------:|
-|          250           |  'Oo' /u:/  |
-|          500           |  'O' /ɔː/   |
-|          1000          |  'Ah' /ɑ:/  |
-|          2000          |   'A' /ɛ/   |
-|         4000           |  'Ee' /i:/  |
+| Boosted frequency band, Hz | Vowel sound |
+|:--------------------------:|:-----------:|
+|            250             |  'Oo' /u:/  |
+|            500             |  'O' /ɔː/   |
+|            1000            |  'Ah' /ɑ:/  |
+|            2000            |   'A' /ɛ/   |
+|            4000            |  'Ee' /i:/  |
 
 ![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)When training with music, make (mental) notes of how altering different frequency bands
 changes timbres of instruments/voices. There are some tables with attempts to verbally describe different spectral ranges. However, using 
