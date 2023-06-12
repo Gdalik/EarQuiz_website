@@ -39,6 +39,16 @@ But for music, the approach would generally work as a positive side effect of ti
 bands and certain "real" sounds, such as working engine, streamlet, waterfall, pouring sand, etc. For music exercises, think of resonating environments and objects
 which may have an effect, similar to particular equalization: big and small boxes, bottles, jars, cans, pots, cars, rooms, bathrooms, caves, tunnels, anything you have had experience with.<br />
 
+![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)You can associate middle frequencies boost with vowel sounds:
+
+| Boosted frequency band | Vowel sound |
+|:----------------------:|:-----------:|
+|          250           |  'Oo' /u:/  |
+|          500           |  'O' /ɔː/   |
+|          1000          |  'Ah' /ɑ:/  |
+|          2000          |   'A' /ɛ/   |
+|         4000           |  'Ee' /i:/  |
+
 ![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)When training with music, make (mental) notes of how altering different frequency bands
 changes timbres of instruments/voices. There are some tables with attempts to verbally describe different spectral ranges. However, using 
 them may not be very helpful because the effect of particular equalization on timbre may drastically depend on a sound source, how it has been recorded,
