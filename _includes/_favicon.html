@@ -4,13 +4,15 @@
 *
 {% endcomment %}
 {% comment %} Standard Favicon: {% endcomment %}
-	{% if site.favicon %}<link rel="shortcut icon" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon }}" type="image/x-icon">{% endif %}
+	{% if site.favicon %}<link rel="icon" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon }}" type="image/x-icon">{% endif %}
 {% comment %} Small Favicon: {% endcomment %}
 	{% if site.favicon-16x16 %}<link rel="icon" sizes="16x16" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-16x16 }}">{% endif %}
 {% comment %} Regular Old-Skool Favicon: {% endcomment %}
 	{% if site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
 {% comment %} For Chrome for Android: {% endcomment %}
 	{% if site.touch-icon-192x192 %}<link rel="icon" sizes="192x192" href="{{ "/assets/img/" | absolute_url }}{{ site.touch-icon-192x192 }}">{% endif %}
+{% comment %} For Chrome for Android 2: {% endcomment %}
+	{% if site.touch-icon-180x180 %}<link rel="icon" sizes="180x180" href="{{ "/assets/img/" | absolute_url }}{{ site.touch-icon-180x180 }}">{% endif %}
 {% comment %} For iPhone 6 Plus with @3× display: {% endcomment %}
 	{% if site.apple-touch-icon-180x180-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ "/assets/img/" | absolute_url }}{{ site.apple-touch-icon-180x180-precomposed }}">{% endif %}
 {% comment %} For iPad with @2× display running iOS ≥ 7: {% endcomment %}
