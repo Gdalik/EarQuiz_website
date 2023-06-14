@@ -3,6 +3,10 @@
 *   More Information › https://mathiasbynens.be/notes/touch-icons
 *
 {% endcomment %}
+{% comment %} Standard Favicon: {% endcomment %}
+	{% if site.favicon %}<link rel="icon" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon }}" type="image/x-icon">{% endif %}
+{% comment %} Small Favicon: {% endcomment %}
+	{% if site.favicon-16x16 %}<link rel="icon" sizes="16x16" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-16x16 }}">{% endif %}
 {% comment %} Regular Old-Skool Favicon: {% endcomment %}
 	{% if site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
 {% comment %} For Chrome for Android: {% endcomment %}
