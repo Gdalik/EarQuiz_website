@@ -43,7 +43,7 @@ It is free for any use, either personal or commercial!
 - Easy non-destructive trimming of external audio files.
 - Adjustable example/slice length from 10 up to 30 seconds.
 - Auto-saving trimmed ranges and example/slice lengths for different audio sources.
-- Exporting learning and test audio files packages in WAV, AIFF, FLAC, MP3, or OGG format. 
+- Exporting learning and test audio file packages in WAV, AIFF, FLAC, MP3, or OGG format. 
 - Audio format converter.
 - Reading M3U, M3U8, PLS, XSPF playlists supported.
 - Exporting M3U and M3U8 playlists supported.
