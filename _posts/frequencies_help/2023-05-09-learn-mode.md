@@ -33,7 +33,7 @@ By default, the EQ bands are played in the ascending order; if both boosting and
 EQ pattern, each band is first boosted, then cut before proceeding to the next one. However, you can optionally change
 this order to the descending or the shuffle one, selecting the appropriate option in **Controls \| EQ Bands Order in Learn Mode** menu
 of the main menu. In boost & cut exercises, you can set the order with the sequence of all the bands boosted, and then 
-all bands cut (or vice-versa), by selecting the option **All Bands Boosted, then All Bands Cut** in the same menu.
+all bands cut (or vice-versa), by selecting the option **All Bands Boosted, then All Bands Cut or VV** in the same menu.
 
 To go to the next example, click the ![]({{ site.urlimg }}Frequencies_Help/next-example.png)**Next Example** control/button,
 or press **Ctrl+Return** (on Windows) or **⌘+Return** (on macOS).
