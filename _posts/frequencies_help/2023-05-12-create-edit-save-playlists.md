@@ -37,7 +37,7 @@ will also search audio files and parse the playlist files in all the dragged & d
 - If the application is not opened yet, you can alternatively select audio files in File Explorer (on Windows) or Finder (on macOS) and 
 use the **Open with** option in the right-click context menu to open them with EarQuiz Frequencies.
 
-The audio items of valid (10 sec. and more) duration, which can (potentially) be opened, have normal (black) font color.
+The audio items of valid (10 sec. and more) duration and sampling rate (44.1 kHz and more), which can (potentially) be opened, have normal (black) font color.
 If an error occurred while trying to read a file or load it to the player, or its duration is less than 10 sec., or its sampling rate is lower than 44.1 kHz,
 it would be colored with gray. If a file, having already been added to the **Playlist**, cannot be found anymore, it becomes red.
 
