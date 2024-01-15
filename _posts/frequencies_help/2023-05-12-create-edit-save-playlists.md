@@ -30,10 +30,10 @@ Different ways can be used to add audio tracks into the application **Playlist**
 Then choose audio files (WAV, AIFF, FLAC, MP3 or OGG) or playlist files (M3U, M3U8, PLS or XSPF) in the file dialog and click the **Open** button.
 - Select **File \| Open Folder...** from the main menu. Then choose the folder containing audio files and click the **Open** button. 
 In this case, the program will not only add audio files of the supported audio formats within the selected folder, but it
-will also search audio files in all the sub-folders. The playlist files of the supported formats within the folder 
+will also search for audio files in all the sub-folders. The playlist files of the supported formats within the folder 
 and the sub-folders will be found and parsed as well.
 - Drag & Drop files/folders to the **Playlist** from anywhere possible. Just like in the previous point, the program
-will also search audio files and parse the playlist files in all the dragged & dropped folders and their sub-folders.
+will also search for audio files and parse the playlist files in all the dragged & dropped folders and their sub-folders.
 - If the application is not opened yet, you can alternatively select audio files in File Explorer (on Windows) or Finder (on macOS) and 
 use the **Open with** option in the right-click context menu to open them with EarQuiz Frequencies.
 
