@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: page
 permalink: /Frequencies_Video_Tutorial/
 show_meta: false
 title: "EarQuiz Frequencies Video Tutorial"
@@ -9,7 +9,7 @@ tags:
     - equalization manual
     - EarQuiz Frequencies Video Tutorial
     - Golden Ears
-iframe: "<iframe width="970" height="546" src="https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>"
+# iframe: "<iframe width="970" height="546" src="https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -20,8 +20,10 @@ iframe: "<iframe width="970" height="546" src="https://www.youtube.com/embed/XOJ
 # contentURL – A URL pointing to the actual video media file
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
-video:
-    embedURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
-    contentURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
-    thumbnailUrl: "https://i.ytimg.com/vi/XOJai5Fdofw/maxresdefault.jpg"
+# video:
+#    embedURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
+#    contentURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
+#    thumbnailUrl: "https://i.ytimg.com/vi/XOJai5Fdofw/maxresdefault.jpg"
 ---
+
+Some text
