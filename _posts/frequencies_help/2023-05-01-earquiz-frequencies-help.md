@@ -10,6 +10,8 @@ tags:
     - table of contents
 ---
 
+<a href="{{ site.url }}{{ site.baseurl }}/Frequencies_Video_Tutorial/"><img src="{{ site.urlimg }}Social/youtube_16.png"> Watch EarQuiz Frequencies Video Tutorial</a>
+
 * [The Basic Training Method](basic-training-method/)
 * Getting Started
   - [Short Start Guide](short-start-guide/)
