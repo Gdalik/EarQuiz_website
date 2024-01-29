@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: page
 show_meta: false
 title: "EarQuiz Frequencies Video Tutorial"
 teaser: "This is the full video tutorial on EarQuiz Frequencies technical ear training software."
