@@ -13,6 +13,9 @@ image:
     title: EQ_Freq_Screenshot_1.png
 permalink: "/EQ_Frequencies/"
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0aIwm3-6Qc?si=1RSDfJZpgyXKDjv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Whether you make a living from music or this is your hobby; whether you are a seasoned sound professional or a student, 
 trying to develop or master the ability to aurally recognize frequency bands; 
 whether you are an audio specialist/artist of any kind (performer, producer, recording/mixing/mastering/live sound engineer, audio designer, DJ, etc.) or
@@ -52,7 +55,6 @@ It is free for any use, either personal or commercial!
 
 [See Help for details >][6]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t0aIwm3-6Qc?si=1RSDfJZpgyXKDjv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio 
 [2]: https://goldenearsaudio.com/
