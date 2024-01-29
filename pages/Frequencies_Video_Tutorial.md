@@ -1,6 +1,6 @@
 ---
 layout: video
-permalink: "/Frequencies_Video_Tutorial/"
+permalink: /Frequencies_Video_Tutorial/
 show_meta: false
 title: "EarQuiz Frequencies Video Tutorial"
 teaser: "This is the full video tutorial on EarQuiz Frequencies technical ear training software."
