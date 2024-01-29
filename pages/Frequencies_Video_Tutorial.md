@@ -15,5 +15,3 @@ video:
     contentURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
     thumbnailUrl: "https://i.ytimg.com/vi/XOJai5Fdofw/maxresdefault.jpg"
 ---
-
-Some text
