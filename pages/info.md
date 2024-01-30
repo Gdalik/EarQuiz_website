@@ -5,6 +5,7 @@ subheadline: "WWW (Who? What? Why?)"
 teaser: "<i>EarQuiz</i> is a project, dedicated to the development of free yet quality software for <b>technical ear training</b>. 
 It is my pursuit to do something cool and useful for aspiring and professional musicians and all people involved in audio 
 industry, combining my skills, experience and passions."
+show_meta: false
 tags:
     - ear training
     - technical ear training
