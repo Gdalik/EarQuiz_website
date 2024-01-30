@@ -15,7 +15,7 @@ Release Date: Feb 01, 2024
 
 [Source Code (zip)](): tested with Python 3.9, 3.10
 
-| Platform | Build | Notes |
-|==========|===========|====================|
-|Windows (64-bit) | [Download]() | Tested on Windows 10, 11|
-| macOS 11 or higher | [Download]() | For Intel processors only |
+| Platform | Build | Notes                       |
+|----------|-------|-----------------------------|
+|Windows (64-bit) | [Download]() | Tested on Windows 10, 11    |
+| macOS 11 or higher | [Download]() | For Intel processors only   |
