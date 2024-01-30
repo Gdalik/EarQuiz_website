@@ -13,4 +13,4 @@ permalink: "/news/"
 
 
  [1]: {{ site.url }}
- [2]: {{  https://github.com/Gdalik/EarQuiz_Frequencies }}
+ [2]: https://github.com/Gdalik/EarQuiz_Frequencies
