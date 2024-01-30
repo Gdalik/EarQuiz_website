@@ -11,9 +11,11 @@ permalink: "/downloads/"
 
 *Version 0.1.3*
 
+Release Date: Feb 01, 2024
+
 [Source Code (zip)](): tested with Python 3.9, 3.10
 
-| Platform | Download | Build Notes |
+| Platform | Build | Notes |
 |==========|===========|====================|
-|Windows (64-bit) | [Download]()| Tested on Windows 10, 11|
+|Windows (64-bit) | [Download]() | Tested on Windows 10, 11|
 | macOS 11 or higher | [Download]() | For Intel processors only |
