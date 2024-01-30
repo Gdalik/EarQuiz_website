@@ -19,7 +19,7 @@ widget3:
   title: "News"
   url: '/news/'
   image: press-release.png
-  text: <b>2024-01-29</b>: EarQuiz Frequencies repository on GitHub made public' <b>2023-05-01</b>: https://earquiz.org website created'
+  text: '<b>2024-01-29</b>: EarQuiz Frequencies repository on GitHub made public<br/><b>2023-05-01</b>: https://earquiz.org website created'
 
 permalink: /index.html
 homepage: true
