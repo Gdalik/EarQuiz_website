@@ -10,6 +10,10 @@
   url: "/EQ_Frequencies/"
   side: left
 
+- title: Downloads
+  url: "/downloads/"
+  side: left
+
 - title: Manuals
   url: "/manuals/"
   side: left
