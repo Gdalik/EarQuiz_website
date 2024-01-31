@@ -9,11 +9,11 @@ permalink: "/downloads/"
 
 [GitHub Repository](https://github.com/Gdalik/EarQuiz_Frequencies)
 
-*Version 0.1.3*
+*Version 0.1.3*</br>
 Release Date: Feb 01, 2024
 
-[Source Code (zip)](https://github.com/Gdalik/EarQuiz_Frequencies/archive/refs/tags/EarQuiz_Frequencies-v0.1.3.zip)
-[Source Code (tar.gz)](https://github.com/Gdalik/EarQuiz_Frequencies/archive/refs/tags/EarQuiz_Frequencies-v0.1.3.tar.gz)
+[Source Code (zip)](https://github.com/Gdalik/EarQuiz_Frequencies/archive/refs/tags/EarQuiz_Frequencies-v0.1.3.zip)</br>
+[Source Code (tar.gz)](https://github.com/Gdalik/EarQuiz_Frequencies/archive/refs/tags/EarQuiz_Frequencies-v0.1.3.tar.gz)</br>
 Tested with Python 3.9, 3.10
 
 | Platform | Build         | Notes                       |
