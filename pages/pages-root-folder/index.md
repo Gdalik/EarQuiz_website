@@ -12,14 +12,15 @@ widget1:
   text: '<a href="EQ_Frequencies/">EarQuiz Frequencies</a>: learn frequency bands, equalize consciously!'
 widget2:
   title: "Download"
-  # url: ''
+  url: '/downloads/'
   image: download_128.png
-  text: 'Waiting for releases...'
+  text: '<a href="downloads/">Download</a> the latest software releases...'
 widget3:
   title: "News"
   url: '/news/'
   image: press-release.png
-  text: '<b>2024-01-29</b>: EarQuiz Frequencies repository on GitHub made public'
+  text: '<b>2024-02-01</b>: EarQuiz Frequencies -v0.1.3 released!<br/> 
+<b>2024-01-29</b>: EarQuiz Frequencies repository on GitHub made public'
 
 permalink: /index.html
 homepage: true
