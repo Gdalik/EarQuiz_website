@@ -13,7 +13,7 @@ image:
     title: EQ_Freq_Screenshot_1.png
 permalink: "/EQ_Frequencies/"
 ---
-
+[Download][7]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0aIwm3-6Qc?si=1RSDfJZpgyXKDjv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
 
@@ -54,7 +54,8 @@ It is free for any use, either personal or commercial!
 - Convenient and flexible playlist navigation.
 - And other features...
 
-[See Help for details >][6]
+[See Help for details >][6]<br/>
+[Download][7]
 
 
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio 
@@ -63,3 +64,4 @@ It is free for any use, either personal or commercial!
 [4]: https://www.gnu.org/licenses/gpl-3.0.html
 [5]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#pink-noise
 [6]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/
+[7]: {{ site.url }}{{ site.baseurl }}/downloads/
