@@ -15,7 +15,7 @@ permalink: "/EQ_Frequencies/"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0aIwm3-6Qc?si=1RSDfJZpgyXKDjv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Download][7]
+[Download >][7]
 
 <br/>
 
@@ -57,7 +57,7 @@ It is free for any use, either personal or commercial!
 - And other features...
 
 [See Help for details >][6]<br/>
-[Download][7]
+[Download >][7]
 
 
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio 
