@@ -13,5 +13,5 @@ iframe: <iframe width="970" height="546" src="//www.youtube.com/embed/XOJai5Fdof
 video:
     embedURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
     contentURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
-    thumbnailUrl: "https://i.ytimg.com/vi/XOJai5Fdofw/maxresdefault.jpg"
+#    thumbnailUrl: "https://i.ytimg.com/vi/XOJai5Fdofw/maxresdefault.jpg"
 ---
