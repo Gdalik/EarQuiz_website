@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Learn frequency bands! Equalize consciously!"
 title:  "EarQuiz Frequencies"
-teaser: "<i>EarQuiz Frequencies</i> is a software for ear training on equalization. Its goal is to help musicians and other audio professionals or students learn how to hear frequency bands. Available for Windows and macOS.<br/>[Download][7]"
+teaser: "<i>EarQuiz Frequencies</i> is a software for ear training on equalization. Its goal is to help musicians and other audio professionals or students learn how to hear frequency bands. Available for Windows and macOS."
 tags:
     - equalization
     - Golden Ears
@@ -14,6 +14,9 @@ image:
 permalink: "/EQ_Frequencies/"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0aIwm3-6Qc?si=1RSDfJZpgyXKDjv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Download][7]
+
 <br/>
 
 Whether you make a living from music or this is your hobby; whether you are a seasoned sound professional or a student, 
