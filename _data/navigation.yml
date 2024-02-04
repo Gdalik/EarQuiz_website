@@ -10,14 +10,18 @@
   url: "/EQ_Frequencies/"
   side: left
 
+- title: Downloads
+  url: "/downloads/"
+  side: left
+
 - title: Manuals
   url: "/manuals/"
   side: left
   dropdown:
   - title: "EarQuiz Frequencies Help"
     url: "/manuals/earquiz-frequencies-help/"
-  - title: "EarQuiz Frequencies Tutorial Video"
-    url: "/EQ_Frequencies_Tutorial_Video/"
+  - title: "EarQuiz Frequencies Video Tutorial"
+    url: "/Frequencies_Video_Tutorial/"
 
 - title: "Search"
   url: "/search/"
