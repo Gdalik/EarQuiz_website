@@ -9,6 +9,19 @@ permalink: "/downloads/"
 
 [GitHub Repository](https://github.com/Gdalik/EarQuiz_Frequencies)
 
+***Version 0.1.4***<br/>
+*Release Date: Feb 20, 2024*
+
+***Apple Silicon processors are now supported!***
+
+
+| Platform           | Build         | Notes                             |
+|--------------------|---------------|-----------------------------------|
+| Windows (64-bit)   | [Download][3] | Tested on Windows 10, 11          |
+| macOS 11 or higher | [Download][4] | For Intel processors only         |
+| macOS 12 or higher | [Download][5] | For Apple Silicon processors only |
+
+
 ***Version 0.1.3***<br/>
 *Release Date: Feb 01, 2024*
 
@@ -23,3 +36,6 @@ permalink: "/downloads/"
 
 [1]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.3/eqfreq_v0.1.3.build-9.exe
 [2]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.3/EarQuiz.Frequencies.v0.1.3.pkg
+[3]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.4/eqfreq_v0.1.4-Windows.exe
+[4]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.4/EarQuiz_Frequencies-v0.1.4-macOS-Intel.pkg
+[5]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.4/EarQuiz_Frequencies-v0.1.4-macOS-Silicon.dmg

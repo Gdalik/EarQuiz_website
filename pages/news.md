@@ -4,6 +4,10 @@ title: "News of EarQuiz"
 subheadline: "What's new?"
 permalink: "/news/"
 ---
+
+2024-02-20
+:    [EarQuiz Frequencies -v0.1.4 released!][5] **Apple Silicon** processors are now supported!
+
 2024-02-01
 :    [EarQuiz Frequencies -v0.1.3 released!][5]
 
