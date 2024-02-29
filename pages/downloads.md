@@ -15,11 +15,11 @@ permalink: "/downloads/"
 ***Apple Silicon processors are now supported!***
 
 
-| Platform           | Build         | Notes                             |
-|--------------------|---------------|-----------------------------------|
-| Windows (64-bit)   | [Download][3] | Tested on Windows 10, 11          |
-| macOS 11 or higher | [Download][4] | For Intel processors only         |
-| macOS 12 or higher | [Download][5] | For Apple Silicon processors only |
+| Platform           | Build         | Notes                                                          |
+|--------------------|---------------|----------------------------------------------------------------|
+| Windows (64-bit)   | [Download][3] | Tested on Windows 10, 11                                       |
+| macOS 11 or higher | [Download][4] | For Intel processors only <br/> Tested on macOS 12             |
+| macOS 12 or higher | [Download][5] | For Apple Silicon processors only <br/> Tested on macOS 13, 14 |
 
 
 ***Version 0.1.3***<br/>
