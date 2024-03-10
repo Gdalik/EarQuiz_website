@@ -12,7 +12,6 @@ tags:
     - VK
     - WhatsApp
     - Telegram
-    - Buy Me a Coffee
     - Patreon
     - Boosty
 ---
@@ -32,10 +31,9 @@ If you want to support the EarQuiz project, there are different ways to do this:
 
 * Make a one-time or a recurring donation
 
-[![Buy Me a Coffee]({{ site.urlimg }}Social/bmc-logo.png)](https://www.buymeacoffee.com/gdalik)&ensp;&ensp;&ensp;
 [![Patreon]({{ site.urlimg }}Social/Patreon.png)](https://www.patreon.com/EarQuiz)&ensp;&ensp;&ensp;
 [![Boosty]({{ site.urlimg }}Social/Boosty.png)](https://boosty.to/earquiz)
 
-*Buy Me a Coffee* and *Boosty* can be used for both. *Patreon* is a membership-only platform.
+*Boosty* can be used for both. *Patreon* is a membership-only platform.
 
 Any help is highly appreciated! **Thanks in advance!**
