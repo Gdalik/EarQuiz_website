@@ -57,7 +57,7 @@ It is free for any use, either personal or commercial!
 - And other features...
 
 [See Help for details >][6]<br/>
-[Download >][7]
+[Download >][7]<br/>
 [GitHub Repository][8]
 
 
