@@ -58,6 +58,7 @@ It is free for any use, either personal or commercial!
 
 [See Help for details >][6]<br/>
 [Download >][7]
+[GitHub Repository][8]
 
 
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio 
@@ -67,3 +68,4 @@ It is free for any use, either personal or commercial!
 [5]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#pink-noise
 [6]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/
 [7]: {{ site.url }}{{ site.baseurl }}/downloads/
+[8]: https://github.com/Gdalik/EarQuiz_Frequencies
