@@ -5,6 +5,13 @@ subheadline: "What's new?"
 permalink: "/news/"
 ---
 
+2024-03-20
+:    [EarQuiz Frequencies -v0.1.5 released!][5] [The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
+
+2024-03-19
+:    [SignPath Foundation][6] issued free code signing certificate for *EarQuiz Frequencies*.
+For Windows binaries, starting from *version 0.1.5*, the application will use free code signing provided by [SignPath.io][7]
+
 2024-02-20
 :    [EarQuiz Frequencies -v0.1.4 released!][5] **Apple Silicon** processors are now supported!
 
@@ -29,3 +36,5 @@ permalink: "/news/"
  [3]: https://youtu.be/pz-V5KNaBWU?si=Oo3FHfhRYH1HUIVD
  [4]: https://youtu.be/XOJai5Fdofw?si=m7xZRj48G-jGqRHm
  [5]: {{ site.url }}{{ site.baseurl }}/downloads/
+ [6]: https://signpath.org/
+ [7]: https://signpath.io/

@@ -7,7 +7,20 @@ permalink: "/downloads/"
 
 ## EarQuiz Frequencies
 
-[GitHub Repository](https://github.com/Gdalik/EarQuiz_Frequencies)
+[GitHub Repository](https://github.com/Gdalik/EarQuiz_Frequencies) <br/>
+
+For Windows binaries, starting from *version 0.1.5*, this program uses free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10].
+
+***Version 0.1.5***<br/>
+*Release Date: Mar 20, 2024*
+
+[The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
+
+| Platform           | Build         | Notes                                                                                                                                       |
+|--------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)   | [Download][6] | Tested manually on Windows 10, 11. <br/> Free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10] |
+| macOS 11 or higher | [Download][7] | For Intel processors only. <br/> Tested manually on macOS 12                                                                                |
+| macOS 12 or higher | [Download][8] | For Apple Silicon processors only. <br/> Tested manually on macOS 13, 14                                                                    |
 
 ***Version 0.1.4***<br/>
 *Release Date: Feb 20, 2024*
@@ -39,3 +52,8 @@ permalink: "/downloads/"
 [3]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.4/eqfreq_v0.1.4-Windows.exe
 [4]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.4/EarQuiz_Frequencies-v0.1.4-macOS-Intel.pkg
 [5]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.4/EarQuiz_Frequencies-v0.1.4-macOS-Silicon.dmg
+[6]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.5/eqfreq_v0.1.5-Windows.exe
+[7]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.5/EarQuiz_Frequencies_v0.1.5-macOS-Intel.pkg
+[8]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.5/EarQuiz_Frequencies_v0.1.5-macOS-Silicon.dmg
+[9]: https://signpath.io/
+[10]: https://signpath.org/

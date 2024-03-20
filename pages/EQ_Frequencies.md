@@ -56,9 +56,16 @@ It is free for any use, either personal or commercial!
 - Convenient and flexible playlist navigation.
 - And other features...
 
+### Privacy Policy
+This program will not transfer any information to other networked systems unless specifically requested by the user or the person installing or operating it.
+
+### Code Signing Policy
+For Windows binaries, starting from version 0.1.5, this application uses free code signing provided by [SignPath.io][9], 
+and a certificate by the [SignPath Foundation][10].
+
 [See Help for details >][6]<br/>
 [Download >][7]<br/>
-[GitHub Repository][8]
+[GitHub Repository >][8]
 
 
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/making-training-audio 
@@ -69,3 +76,5 @@ It is free for any use, either personal or commercial!
 [6]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/
 [7]: {{ site.url }}{{ site.baseurl }}/downloads/
 [8]: https://github.com/Gdalik/EarQuiz_Frequencies
+[9]: https://signpath.io/
+[10]: https://signpath.org/

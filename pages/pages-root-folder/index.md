@@ -19,8 +19,8 @@ widget3:
   title: "News"
   url: '/news/'
   image: press-release.png
-  text: '<b>2024-02-20</b>: EarQuiz Frequencies -v0.1.4 released!<br/> 
-<b>Apple Silicon</b> processors are now supported!'
+  text: '<b>2024-03-20</b>: EarQuiz Frequencies -v0.1.5 released!<br/> 
+<b>2024-03-19</b>: SignPath Foundation issued free code signing certificate for <i>EarQuiz Frequencies</i>'
 
 permalink: /index.html
 homepage: true
