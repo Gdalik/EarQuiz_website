@@ -20,7 +20,7 @@ widget3:
   url: '/news/'
   image: press-release.png
   text: '<b>2024-03-20</b>: EarQuiz Frequencies -v0.1.5 released!<br/> 
-<b>2024-03-19</b>: SignPath Foundation issued free code signing certificate for <i>EarQuiz Frequencies</i>'
+<b>2024-03-19</b>: <a href="https://signpath.org/">SignPath Foundation</a> issued free code signing certificate for <i>EarQuiz Frequencies</i>'
 
 permalink: /index.html
 homepage: true

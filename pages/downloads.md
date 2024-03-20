@@ -16,11 +16,11 @@ For Windows binaries, starting from *version 0.1.5*, this program uses free code
 
 [The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
 
-| Platform           | Build         | Notes                                                                                                                                       |
-|--------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Windows (64-bit)   | [Download][6] | Tested manually on Windows 10, 11. <br/> Free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10] |
-| macOS 11 or higher | [Download][7] | For Intel processors only. <br/> Tested manually on macOS 12                                                                                |
-| macOS 12 or higher | [Download][8] | For Apple Silicon processors only. <br/> Tested manually on macOS 13, 14                                                                    |
+| Platform                     | Build         | Notes                                                                                                                                       |
+|------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)             | [Download][6] | Tested manually on Windows 10, 11. <br/> Free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10] |
+| macOS 11 or higher (Intel)   | [Download][7] | For Intel processors only. <br/> Tested manually on macOS 12                                                                                |
+| macOS 12 or higher (Silicon) | [Download][8] | For Apple Silicon processors only. <br/> Tested manually on macOS 13, 14                                                                    |
 
 ***Version 0.1.4***<br/>
 *Release Date: Feb 20, 2024*
