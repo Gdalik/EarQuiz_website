@@ -7,7 +7,7 @@ permalink: "/sponsors/"
 
 ## Monetary Sponsors
 
-You can be the first one ;-)
+[You can be the first one ;-)](/support/)
 
 ## Non-monetary Sponsors
 

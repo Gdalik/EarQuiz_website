@@ -31,6 +31,10 @@
   url: "/contact/"
   side: right
 
+- title: "Sponsors"
+  url: "/sponsors/"
+  side: right
+
 - title: "Support"
   url: "/support/"
   side: right
