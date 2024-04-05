@@ -14,6 +14,7 @@ tags:
 * Getting Started
   - [Short Start Guide](short-start-guide/)
   - [Choosing Acoustic Device](choosing-acoustic-device/)
+  - [Choosing Audio Playback Backend](choosing-audio-backend/)
   - [Checking Audio Playback](checking-audio-playback/)
   - [Adjusting Audio System](adjusting-audio-system/)
     * [Setting Volume Level](adjusting-audio-system/#setting-volume-level)

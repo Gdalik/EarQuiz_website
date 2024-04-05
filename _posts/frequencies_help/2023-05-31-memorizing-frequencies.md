@@ -49,6 +49,16 @@ which may have an effect, similar to particular equalization: big and small boxe
 |            2000            |   'A' /ɛ/   |
 |            4000            |  'Ee' /i:/  |
 
+<br />
+
+And the highest frequencies can be thought of as sibilants:
+<br />
+
+| Boosted frequency band, Hz | Sibilant sound |
+|:--------------------------:|:--------------:|
+|            8000            |   'Sh' /sh/    |
+|          16000             |    'S' /s/     |
+
 ![]({{ site.urlimg }}Frequencies_Help/lightbulb.png)When training with music, make (mental) notes of how altering different frequency bands
 changes timbres of instruments/voices. There are some tables with attempts to verbally describe different spectral ranges. However, using 
 them may not be very helpful because the effect of particular equalization on timbre may drastically depend on a sound source, how it has been recorded,
