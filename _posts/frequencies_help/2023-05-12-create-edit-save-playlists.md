@@ -25,7 +25,7 @@ the supported formats are added as items.' %}
  
 #### Adding and Removing Tracks
 Different ways can be used to add audio tracks into the application **Playlist**:
-- Select **File \| Open Files...** from the main menu, or press **Ctrl+O** (on Windows) or 
+- Select **File \| Open Files...** from the main menu, or press **Ctrl+O** (on Windows and Linux) or 
 **⌘O** (on macOS), or click on the <span style="color:green; font-weight:bold">+</span> button in the **Audio Source** window. 
 Then choose audio files (WAV, AIFF, FLAC, MP3 or OGG) or playlist files (M3U, M3U8, PLS or XSPF) in the file dialog and click the **Open** button.
 - Select **File \| Open Folder...** from the main menu. Then choose the folder containing audio files and click the **Open** button. 
@@ -34,7 +34,7 @@ will also search for audio files in all the sub-folders. The playlist files of t
 and the sub-folders will be found and parsed as well.
 - Drag & Drop files/folders to the **Playlist** from anywhere possible. Just like in the previous point, the program
 will also search for audio files and parse the playlist files in all the dragged & dropped folders and their sub-folders.
-- If the application is not opened yet, you can alternatively select audio files in File Explorer (on Windows) or Finder (on macOS) and 
+- If the application is not opened yet, you can alternatively select audio files in File Explorer (on Windows) or Finder (on macOS) or File Manager (on Linux) and 
 use the **Open with** option in the right-click context menu to open them with EarQuiz Frequencies.
 
 The audio items of valid (10 sec. and more) duration and sampling rate (44.1 kHz and more), which can (potentially) be opened, have normal (black) font color.
@@ -43,7 +43,7 @@ it would be colored with gray. If a file, having already been added to the **Pla
 
 You can change the items' order with the internal drag & drop of the **Playlist**.
 
-To show any of the tracks from the **Playlist** in File Explorer (on Windows) or Finder (on macOS), select and right-click on it (or 
+To show any of the tracks from the **Playlist** in File Explorer (on Windows) or Finder (on macOS) or File Manager (on Linux), select and right-click on it (or 
 select it with right-clicking) and choose the corresponding option in the context menu.
 
 Clicking the **![]({{ site.urlimg }}Frequencies_Help/clear.png)Clear** button above the **Playlist** removes all the items from it.
@@ -69,7 +69,7 @@ The other audio files' paths would be absolute.
 The file dialog, which is opened on choosing any of the two options above, lets you name your playlist file, choose its future location, and
 select its format/extension. Currently, you can save your playlist as M3U or M3U8 file. These are very human-readable text file formats
 which may contain only audio file paths/URLs at different lines. The only difference between them is that M3U8 forces the use of UTF-8 encoding. 
-On macOS, you can use them interchangeably, but on Windows the system encoding, which may be different, is used for M3U files, which may cause problems 
+On macOS and Linux, you can use them interchangeably, but on Windows the system encoding, which may be different, is used for M3U files, which may cause problems 
 with non-Latin characters.
 So, M3U8 is more recommended in general case.
 

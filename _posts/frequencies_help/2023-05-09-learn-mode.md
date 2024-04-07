@@ -14,7 +14,7 @@ tags:
     - warm-up exercises
 ---
 The basic way to activate the **Learn** mode is clicking the corresponding button on the main window or
-by selecting **Controls \| Learn Mode** from the main menu. The keyboard shortcut for it is  **Ctrl+L** (on Windows) or **⌘L** (on macOS).<br />
+by selecting **Controls \| Learn Mode** from the main menu. The keyboard shortcut for it is  **Ctrl+L** (on Windows or Linux) or **⌘L** (on macOS).<br />
 ![]({{ site.urlimg }}Frequencies_Help/LearnMode.png)<br />
 
 The application will normalize the audio if needed. When you use an external audio file as a source, the program 
@@ -36,7 +36,7 @@ of the main menu. In boost & cut exercises, you can set the order with the seque
 all bands cut (or vice-versa), by selecting the option **All Bands Boosted, then All Bands Cut or VV** in the same menu.
 
 To go to the next example, click the ![]({{ site.urlimg }}Frequencies_Help/next-example.png)**Next Example** control/button,
-or press **Ctrl+Return** (on Windows) or **⌘+Return** (on macOS).
+or press **Ctrl+Return** (on Windows and Linux) or **⌘+Return** (on macOS).
 
 Alternatively, you can check the option ![]({{ site.urlimg }}Frequencies_Help/sequential-playback.png)**Sequential Playback (of Learning Examples)** 
 in the **Controls** menu of the main menu or in the **Transport Panel**. In this case, you can start the playback once, and then

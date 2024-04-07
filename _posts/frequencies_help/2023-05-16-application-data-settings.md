@@ -15,8 +15,8 @@ tags:
 I tried to make the program store all its data and settings in one place, without leaving
 a lot of scattered garbage on disk or in registry (on Windows). On macOS, the (parent) data/settings directory is *Library/Application Support/EarQuiz/Frequencies* 
 under current system's user folder. On Windows, it is located in *EarQuiz/Frequencies* folder under the current user's 
-*Application Data* folder. Therefore, by manually removing it or some parts of it, 
-you can reset the corresponding settings to defaults.
+*Application Data* folder. And the path on Linux is *.config/EarQuiz/Frequencies* in a user's home directory.
+Therefore, by manually removing it or some parts of it, you can reset the corresponding settings to defaults.
 Moreover, automatic clean-up of all the application data during the uninstallation process (which is often not desirable) becomes unnecessary.
 
 The *config.ini* file contains the program settings and states, including checked/unchecked options, windows'/panels' sizes, placements and

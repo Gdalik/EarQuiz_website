@@ -15,7 +15,7 @@ tags:
 ---
 
 There are different ways to load external audio into the software:
-- Select **File \| Open Files...** from the main menu, or press **Ctrl+O** (on Windows) or 
+- Select **File \| Open Files...** from the main menu, or press **Ctrl+O** (on Windows or Linux) or 
 **⌘O** (on macOS), or click on <span style="color:green; font-weight:bold">+</span> in the **Audio Source** window.
 - Select **File \| Open Folder...** from the main menu.
 - Drag & Drop files/folders to the **Playlist** from anywhere possible.
@@ -38,7 +38,7 @@ When you are not in the **Preview** mode, the player skip controls/buttons are n
 in the playlist, you can still use the navigation buttons above the **Playlist**. This will switch the program to the **Preview**
 mode, whatever the current mode is. Any training process will be cancelled. Moreover, every change of an audio source resets the application to the **Preview** mode.
 You can also manually activate the **Preview** mode by clicking the corresponding button on the main window or
-by selecting **Controls \| Preview Mode** from the main menu. The keyboard shortcut for it is  **Ctrl+P** (on Windows) or **⌘P** (on macOS).<br /> 
+by selecting **Controls \| Preview Mode** from the main menu. The keyboard shortcut for it is  **Ctrl+P** (on Windows and Linux) or **⌘P** (on macOS).<br /> 
 
 ![]({{ site.urlimg }}Frequencies_Help/PreviewMode.png)<br />
 
