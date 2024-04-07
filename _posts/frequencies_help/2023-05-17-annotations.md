@@ -34,7 +34,8 @@ with the maximum amplitude equal to a certain value (in dB).
 [< Back to "Setting Volume Level"][3]
 
 #### Supported Audio Formats
-<a id="supported-audio-formats"> In general, the application works with WAVE, AIFF, MP3, FLAC and OGG files.</a>
+
+In general, the application works with WAVE, AIFF, MP3, FLAC and OGG files.
 All of them can be added to the **Playlist** and processed.
 
 However, the support of the *playback* of different formats is dependent on the [current audio playback backend][6] (see the comparison in the table below).
