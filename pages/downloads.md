@@ -9,17 +9,22 @@ permalink: "/downloads/"
 
 [GitHub Repository](https://github.com/Gdalik/EarQuiz_Frequencies) <br/>
 
-For Windows binaries, starting from *version 0.1.5*, this program uses free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10].
+If you cannot find the binaries, built for your platform (OS version, processor architecture), you can try to run 
+(and build) the application from the source code, having installed the supported version of *Python* and all the required dependencies.
+See the *README* file for the details.
+
+For Windows binaries, starting from *version 0.1.5*, this program uses free code signing provided by [SignPath.io][9], 
+and a certificate by the [SignPath Foundation][10].
 
 ### Version 0.1.6<br/>
 *Release Date: Apr 25, 2024*
 
-| Platform                   | Build           | Notes                                                                                                                                        |
-|----------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Windows (64-bit)           | [Download][11]  | Tested manually on Windows 10, 11. <br/> Free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10]  |
-| macOS 11 or higher (Intel) | [Download][12]  | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                                      |
-| macOS (Silicon)            | [Download][13]  | For Apple Silicon processors only. <br/> Tested manually on macOS 14 (Sonoma)                                                                |
-| Linux (amd64)              | [Download][14]  | For x86-64 processors. <br/> Tested manually on Ubuntu 22.04.4                                                                               |
+| Platform                   | Build           | Notes                                                                                                                      |
+|----------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)           | [Download][11]  | Tested manually on Windows 10, 11                                                                                          |
+| macOS 11 or higher (Intel) | [Download][12]  | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                    |
+| macOS (Silicon)            | [Download][13]  | For Apple Silicon processors only. <br/> Tested manually on macOS 14 (Sonoma).<br/> May be incompatible with lower versions |
+| Linux (amd64)              | [Download][14]  | For x86-64 processors. <br/> Tested manually on Ubuntu 22.04.4                                                             |
 
 #### What's new in version 0.1.6?
 
@@ -28,7 +33,7 @@ For Windows binaries, starting from *version 0.1.5*, this program uses free code
 - New Features
 
   - *FFmpeg* is now supported and set as the default audio backend.
-  - Possibility to switch between *FFmpeg* and native system audio backend: **Audio | Audio Playback Backend** menu added to the main menu.
+  - Possibility to switch between *FFmpeg* and native system audio backend: **Audio \| Audio Playback Backend** menu added to the main menu.
   - AIFF and OGG files can be played back on all the platforms (with FFmpeg).
 
 - Bugs Fixed
