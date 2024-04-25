@@ -10,7 +10,7 @@ permalink: "/downloads/"
 [GitHub Repository](https://github.com/Gdalik/EarQuiz_Frequencies) <br/>
 
 If you cannot find the binaries, built for your platform (OS version, processor architecture), you can try to run 
-(and build) the application from the source code, having installed the supported version of *Python* and all the required dependencies.
+(and build) the application from the source code, having installed a supported version of *Python* and all the required dependencies.
 See the *README* file for the details.
 
 For Windows binaries, starting from *version 0.1.5*, this program uses free code signing provided by [SignPath.io][9], 
