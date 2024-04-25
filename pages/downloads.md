@@ -34,7 +34,7 @@ and a certificate by the [SignPath Foundation][10].
 
   - *FFmpeg* is now supported and set as the default audio backend.
   - Possibility to switch between *FFmpeg* and native system audio backend: **Audio \| Audio Playback Backend** menu added to the main menu.
-  - AIFF and OGG files can be played back on all the platforms (with FFmpeg).
+  - AIFF and OGG files can be played back on all the platforms (with *FFmpeg*).
 
 - Bugs Fixed
 
