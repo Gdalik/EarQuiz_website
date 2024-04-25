@@ -11,7 +11,39 @@ permalink: "/downloads/"
 
 For Windows binaries, starting from *version 0.1.5*, this program uses free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10].
 
-***Version 0.1.5***<br/>
+### Version 0.1.6<br/>
+*Release Date: Apr 25, 2024*
+
+| Platform                   | Build           | Notes                                                                                                                                        |
+|----------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)           | [Download][11]  | Tested manually on Windows 10, 11. <br/> Free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10]  |
+| macOS 11 or higher (Intel) | [Download][12]  | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                                      |
+| macOS (Silicon)            | [Download][13]  | For Apple Silicon processors only. <br/> Tested manually on macOS 14 (Sonoma)                                                                |
+| Linux (amd64)              | [Download][14]  | For x86-64 processors. <br/> Tested manually on Ubuntu 22.04.4                                                                               |
+
+#### What's new in version 0.1.6?
+
+- Linux is now supported!
+
+- New Features
+
+  - *FFmpeg* is now supported and set as the default audio backend.
+  - Possibility to switch between *FFmpeg* and native system audio backend: **Audio | Audio Playback Backend** menu added to the main menu.
+  - AIFF and OGG files can be played back on all the platforms (with FFmpeg).
+
+- Bugs Fixed
+
+  - Splash Screen did not appear/disappear at the right time.
+  - The application often froze on startup.
+  - Mode buttons were not greyed out when disabled.
+  - [on macOS] Playback position of FLAC files was often wrong when not played from start. *FFmpeg* handles it right.
+
+- GUI Improvements
+
+  - Font size adjustments.
+  - *Arial* is now used as the main font to increase similarity across the platforms.
+
+### Version 0.1.5<br/>
 *Release Date: Mar 20, 2024*
 
 [The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
@@ -22,7 +54,7 @@ For Windows binaries, starting from *version 0.1.5*, this program uses free code
 | macOS 11 or higher (Intel)   | [Download][7] | For Intel processors only. <br/> Tested manually on macOS 12                                                                                |
 | macOS 12 or higher (Silicon) | [Download][8] | For Apple Silicon processors only. <br/> Tested manually on macOS 13, 14                                                                    |
 
-***Version 0.1.4***<br/>
+### Version 0.1.4<br/>
 *Release Date: Feb 20, 2024*
 
 ***Apple Silicon processors are now supported!***
@@ -35,7 +67,7 @@ For Windows binaries, starting from *version 0.1.5*, this program uses free code
 | macOS 12 or higher | [Download][5] | For Apple Silicon processors only <br/> Tested on macOS 13, 14 |
 
 
-***Version 0.1.3***<br/>
+### Version 0.1.3 <br/>
 *Release Date: Feb 01, 2024*
 
 [Source Code (zip)](https://github.com/Gdalik/EarQuiz_Frequencies/archive/refs/tags/EarQuiz_Frequencies-v0.1.3.zip) <br/>
@@ -57,3 +89,7 @@ For Windows binaries, starting from *version 0.1.5*, this program uses free code
 [8]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.5/EarQuiz_Frequencies_v0.1.5-macOS-Silicon.dmg
 [9]: https://signpath.io/
 [10]: https://signpath.org/
+[11]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.6/eqfreq_v0.1.6-build-39-Windows.exe
+[12]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.6/EarQuiz_Frequencies_v0.1.6-macOS-Intel.pkg
+[13]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.6/EarQuiz_Frequencies_v0.1.6-macOS-Silicon.dmg
+[14]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.6/earquiz-frequencies_0.1.6-01_amd64.deb
