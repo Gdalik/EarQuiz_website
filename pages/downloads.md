@@ -19,12 +19,12 @@ and a certificate by the [SignPath Foundation][10].
 ### Version 0.1.6<br/>
 *Release Date: Apr 25, 2024*
 
-| Platform                   | Build           | Notes                                                                                                                      |
-|----------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------|
-| Windows (64-bit)           | [Download][11]  | Tested manually on Windows 10, 11                                                                                          |
-| macOS 11 or higher (Intel) | [Download][12]  | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                    |
+| Platform                   | Build           | Notes                                                                                                                       |
+|----------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)           | [Download][11]  | Tested manually on Windows 10, 11                                                                                           |
+| macOS 11 or higher (Intel) | [Download][12]  | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                     |
 | macOS (Silicon)            | [Download][13]  | For Apple Silicon processors only. <br/> Tested manually on macOS 14 (Sonoma).<br/> May be incompatible with lower versions |
-| Linux (amd64)              | [Download][14]  | For x86-64 processors. <br/> Tested manually on Ubuntu 22.04.4                                                             |
+| Linux (amd64)              | [Download][14]  | For x86-64 processors. <br/> Tested manually on Ubuntu 22.04.4                                                              |
 
 #### What's new in version 0.1.6?
 
@@ -53,11 +53,11 @@ and a certificate by the [SignPath Foundation][10].
 
 [The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
 
-| Platform                     | Build         | Notes                                                                                                                                       |
-|------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Windows (64-bit)             | [Download][6] | Tested manually on Windows 10, 11. <br/> Free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10] |
-| macOS 11 or higher (Intel)   | [Download][7] | For Intel processors only. <br/> Tested manually on macOS 12                                                                                |
-| macOS 12 or higher (Silicon) | [Download][8] | For Apple Silicon processors only. <br/> Tested manually on macOS 13, 14                                                                    |
+| Platform                   | Build         | Notes                                                                                                                                       |
+|----------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)           | [Download][6] | Tested manually on Windows 10, 11. <br/> Free code signing provided by [SignPath.io][9], and a certificate by the [SignPath Foundation][10] |
+| macOS 11 or higher (Intel) | [Download][7] | For Intel processors only. <br/> Tested manually on macOS 12                                                                                |
+| macOS (Silicon)            | [Download][8] | For Apple Silicon processors only. <br/> Tested manually on macOS 13, 14.<br/> May be incompatible with lower versions                      |
 
 ### Version 0.1.4<br/>
 *Release Date: Feb 20, 2024*
@@ -65,11 +65,11 @@ and a certificate by the [SignPath Foundation][10].
 ***Apple Silicon processors are now supported!***
 
 
-| Platform           | Build         | Notes                                                          |
-|--------------------|---------------|----------------------------------------------------------------|
-| Windows (64-bit)   | [Download][3] | Tested on Windows 10, 11                                       |
-| macOS 11 or higher | [Download][4] | For Intel processors only <br/> Tested on macOS 12             |
-| macOS 12 or higher | [Download][5] | For Apple Silicon processors only <br/> Tested on macOS 13, 14 |
+| Platform           | Build         | Notes                                                                                                                   |
+|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)   | [Download][3] | Tested on Windows 10, 11                                                                                                |
+| macOS 11 or higher | [Download][4] | For Intel processors only <br/> Tested on macOS 12                                                                      |
+| macOS (Silicon)    | [Download][5] | For Apple Silicon processors only. <br/> Tested manually on macOS 13, 14.<br/> May be incompatible with lower versions  |
 
 
 ### Version 0.1.3 <br/>
