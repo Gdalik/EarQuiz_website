@@ -15,6 +15,12 @@ tags:
     - GStreamer
 ---
 
+{% include alert info='This option was deprecated in *version 0.1.7*. The bug in Qt6/PyQt6 
+library that caused deadlock when using *FFmpeg* backend and led to the application hanging was fixed.
+Now, *FFmpeg* is used as a single possible framework for playing all the supported audio formats on all the supported platforms.' %}
+
+***Version 0.1.6***
+
 This option was introduced in *version 0.1.6* along with the support of *FFmpeg*, which has now been used by default. 
 Before that, the native system backend (*Windows Media Foundation* on Windows, and *AVFoundation* on macOS)
 had been the only option. The Linux version, which also appeared in this release, uses *GStreamer* as the underlying framework.

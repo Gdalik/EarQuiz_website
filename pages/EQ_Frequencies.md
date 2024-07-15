@@ -54,7 +54,7 @@ It is free for any use, either personal or commercial!
 - Reading M3U, M3U8, PLS, XSPF playlists supported.
 - Exporting M3U and M3U8 playlists supported.
 - Convenient and flexible playlist navigation.
-- Dark Mode support (on macOS and Linux).
+- Dark Mode support (on macOS, Linux, and Windows 11).
 - And other features...
 
 [See Help for details >][6]<br/>
