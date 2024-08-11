@@ -5,6 +5,10 @@ subheadline: "What's new?"
 permalink: "/news/"
 ---
 
+2024-04-25
+:    [EarQuiz Frequencies -v0.1.6 released!][5] <br />
+Linux is now supported!
+
 2024-03-20
 :    [EarQuiz Frequencies -v0.1.5 released!][5] <br />
 [The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
