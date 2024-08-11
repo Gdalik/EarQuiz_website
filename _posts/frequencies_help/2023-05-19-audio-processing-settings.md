@@ -46,7 +46,7 @@ being *35 ms*. The less, the faster; the bigger, the smoother.
 And the **Example Fade In/Out Duration** setting has the default value of *5 ms*. You might want to set this to *zero* and do without
 these fades, e.g., if you decide to [make learning files] [1] package, which you are going to play back continuously, without
 pauses between examples within the sequence using your favorite media player. This is a way to do the learning exercises 
-while enjoying the seamless, non-interrupted playback of a music track. Or the user might want to set this value to the maximum (*100 ms*) 
+while enjoying the seamless, non-interrupted playback of a music track. Or a user might want to set this value to the maximum (*100 ms*) 
 to get the smoothest possible starts and endings.
 
 All the adjustable values in this window used to be hard-coded in the previous versions. Now that they have become the default settings, a user
