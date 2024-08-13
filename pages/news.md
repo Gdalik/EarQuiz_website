@@ -5,6 +5,10 @@ subheadline: "What's new?"
 permalink: "/news/"
 ---
 
+2024-??-??
+:    [EarQuiz Frequencies -v0.1.7 released!][5] <br />
+[Watch Review of New Features in Version 0.1.7][8]
+
 2024-04-25
 :    [EarQuiz Frequencies -v0.1.6 released!][5] <br />
 Linux is now supported!
@@ -43,3 +47,4 @@ For Windows binaries, starting from *version 0.1.5*, the application will use fr
  [5]: {{ site.url }}{{ site.baseurl }}/downloads/
  [6]: https://signpath.org/
  [7]: https://signpath.io/
+ [8]: https://youtu.be/gnop0Z-3LWg

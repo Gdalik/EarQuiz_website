@@ -19,7 +19,7 @@ widget3:
   title: "News"
   url: '/news/'
   image: press-release.png
-  text: '<b>2024-04-25</b>: EarQuiz Frequencies -v0.1.6 released!'
+  text: '<b>2024-??-??</b>: EarQuiz Frequencies -v0.1.7 released!'
 
 permalink: /index.html
 homepage: true
