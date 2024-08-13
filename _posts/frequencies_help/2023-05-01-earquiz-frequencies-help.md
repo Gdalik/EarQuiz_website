@@ -30,6 +30,7 @@ tags:
   - [Adding and Removing Tracks](create-edit-save-playlists/#adding-and-removing-tracks)
   - [Exporting Playlists](create-edit-save-playlists/#exporting-playlists)
 * [Making Training Audio Files](making-training-audio/)
+* [Audio Processing Settings](audio-processing-settings/)
 * [Converting Audio Files](converting-audio/)
 * [Setting Default Length of Slice/Example](setting-default-slice-length/)
 * [Application Data and Settings](application-data-settings/)

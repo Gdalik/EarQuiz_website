@@ -25,10 +25,10 @@ automatically. After some more seconds, the EQ is switched off again, and the so
 
 ![]({{ site.urlimg }}Frequencies_Help/Drill_structure.png)
 
-*Note: The current proportion of equalized part length versus sum length of non-equalized ones is hard-coded at 40/60 per cent.
+*Note: The default proportion of equalized part length versus sum length of non-equalized ones is hard-coded at 40/60 per cent.
 Therefore, if we have 10 seconds length example, this would be: 3sec **EQ Off**, 4sec **EQ On** and 
-3sec **EQ Off** respectively.
-The option to adjust this setting is planned to be introduced in future versions.*
+3sec **EQ Off** respectively. It used to be hard-coded, but in the version 0.1.7 the option to adjust this setting as well as 
+some other audio processing parameters has been introduced. [See details here][4].*
 
 Regardless of the audio source material and the EQ settings, the recommended approach remains the same.
 - First, you **learn** and warm-up by listening to examples, trying to [memorize and internalize][3] 
@@ -42,3 +42,4 @@ and boost/cut options (where available), which you guess, and get a score to tra
 [1]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#pink-noise
 [2]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/annotations/#supported-audio-formats
 [3]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/memorizing-frequencies
+[4]: {{ site.url }}{{ site.baseurl }}/manuals/earquiz-frequencies-help/audio-processing-settings
