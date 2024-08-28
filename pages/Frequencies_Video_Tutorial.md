@@ -14,4 +14,5 @@ video:
     embedURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
     contentURL: "https://www.youtube.com/embed/XOJai5Fdofw?si=xC6r9NADIHlG_iyI"
     thumbnailUrl: "https://i.ytimg.com/vi/XOJai5Fdofw/maxresdefault.jpg"
+    uploadDate: "2024-02-05T22:17:55+03:00"
 ---
