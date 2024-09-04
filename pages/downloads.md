@@ -42,7 +42,7 @@ The application now uses *FFmpeg* as the only multimedia framework on all the pl
   - SSL certificate added, fixing HTTPS verification issue during application updates checking process.
 - GUI Changes and Improvements
   - Application style changed to 'Fusion' on Windows 11
-  - Dark Mode is now supported in Windows 11, along with macOS and Linux.
+  - Dark Mode is now supported on Windows 11, along with macOS and Linux.
   - Other minor adjustments.
 
 ### Version 0.1.6<br/>
