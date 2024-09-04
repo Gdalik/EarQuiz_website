@@ -80,7 +80,7 @@ The application now uses *FFmpeg* as the only multimedia framework on all the pl
 ### Version 0.1.5<br/>
 *Release Date: Mar 20, 2024*
 
-[The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
+[<img src="{{ site.urlimg }}Social/youtube_16.png"> The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
 
 | Platform                   | Build         | Notes                                                                                                                                       |
 |----------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|

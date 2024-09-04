@@ -7,7 +7,7 @@ permalink: "/news/"
 
 2024-09-04
 :    [EarQuiz Frequencies -v0.1.7 released!][5] <br />
-[Watch Review of New Features in Version 0.1.7][8]
+[<img src="{{ site.urlimg }}Social/youtube_16.png"> Watch Review of New Features in Version 0.1.7][8]
 
 2024-04-25
 :    [EarQuiz Frequencies -v0.1.6 released!][5] <br />
@@ -15,7 +15,7 @@ Linux is now supported!
 
 2024-03-20
 :    [EarQuiz Frequencies -v0.1.5 released!][5] <br />
-[The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
+[<img src="{{ site.urlimg }}Social/youtube_16.png"> The Dark Mode is supported on macOS now!](https://youtu.be/QNEA4jI1jw4)
 
 2024-03-19
 :    [SignPath Foundation][6] issued free code signing certificate for *EarQuiz Frequencies*.
