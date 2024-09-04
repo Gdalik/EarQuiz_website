@@ -28,7 +28,7 @@ and a certificate by the [SignPath Foundation][10].
 
 #### What's new in version 0.1.7?
 
-- [New Features](https://youtu.be/gnop0Z-3LWg)
+- [<img src="{{ site.urlimg }}Social/youtube_16.png"> New Features](https://youtu.be/gnop0Z-3LWg)
   - Possibility to adjust the audio processing parameters of training examples
 (EQ On/Off time proportion, EQ On↔︎Off transition time, example fade in/out duration) from the dialog window, 
 called by selecting **Audio | Audio Processing Settings** from the main menu, added.
