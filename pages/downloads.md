@@ -59,7 +59,7 @@ The application now uses *FFmpeg* as the only multimedia framework on all the pl
 
 - Linux is now supported!
 
-- New Features
+- [New Features](https://youtu.be/gnop0Z-3LWg)
 
   - *FFmpeg* is now supported and set as the default audio backend.
   - Possibility to switch between *FFmpeg* and native system audio backend: **Audio \| Audio Playback Backend** menu added to the main menu.
