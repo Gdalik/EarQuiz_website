@@ -35,7 +35,7 @@ with the maximum amplitude equal to a certain value (in dB).
 
 #### Supported Audio Formats
 
-<a id="supported-audio-formats">Starting</a> from *version 0.1.7*, the application should flawlessly work with 
+Starting from *version 0.1.7*, the application should flawlessly work with 
 WAVE, AIFF, MP3, FLAC, and OGG files on all the supported platforms.</a>
 
 [< Back to "The Basic Training Method"][1]<br />
