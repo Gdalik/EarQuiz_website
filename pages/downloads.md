@@ -28,7 +28,7 @@ and a certificate by the [SignPath Foundation][10].
 
 #### What's new in version 0.1.7?
 
-- New Features
+- [New Features](https://youtu.be/gnop0Z-3LWg)
   - Possibility to adjust the audio processing parameters of training examples
 (EQ On/Off time proportion, EQ On↔︎Off transition time, example fade in/out duration) from the dialog window, 
 called by selecting **Audio | Audio Processing Settings** from the main menu, added.
@@ -59,7 +59,7 @@ The application now uses *FFmpeg* as the only multimedia framework on all the pl
 
 - Linux is now supported!
 
-- [New Features](https://youtu.be/gnop0Z-3LWg)
+- New Features
 
   - *FFmpeg* is now supported and set as the default audio backend.
   - Possibility to switch between *FFmpeg* and native system audio backend: **Audio \| Audio Playback Backend** menu added to the main menu.
