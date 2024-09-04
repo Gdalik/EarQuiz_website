@@ -11,7 +11,7 @@ permalink: "/downloads/"
 
 If you cannot find the binaries, built for your platform (OS version, processor architecture), you can try to run 
 (and build) the application from the source code, having installed a supported version of *Python* and all the required dependencies.
-See the *README* file for the details.
+See the [README][19] file for the details.
 
 For Windows binaries, starting from *version 0.1.5*, this program uses free code signing provided by [SignPath.io][9], 
 and a certificate by the [SignPath Foundation][10].
@@ -131,3 +131,4 @@ The application now uses *FFmpeg* as the only multimedia framework on all the pl
 [16]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/EarQuiz_Frequencies-v0.1.7-macOS-Intel.pkg
 [17]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/EarQuiz_Frequencies-v0.1.7-macOS-Silicon.dmg
 [18]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/earquiz-frequencies_0.1.7-01_amd64.deb
+[19]: https://github.com/Gdalik/EarQuiz_Frequencies/blob/master/README.md
