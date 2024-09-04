@@ -17,12 +17,12 @@ For Windows binaries, starting from *version 0.1.5*, this program uses free code
 and a certificate by the [SignPath Foundation][10].
 
 ### Version 0.1.7<br/>
-*Release Date:*
+*Release Date: Sep 04, 2024*
 
 | Platform                   | Build          | Notes                                                                                                                       |
 |----------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Windows (64-bit)           | [Download][15] | Tested manually on Windows 10, 11                                                                                           |
-| macOS 11 or higher (Intel) | [Download][16] | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                     |
+| macOS 12 or higher (Intel) | [Download][16] | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                     |
 | macOS (Silicon)            | [Download][17] | For Apple Silicon processors only. <br/> Tested manually on macOS 14 (Sonoma).<br/> May be incompatible with lower versions |
 | Linux (amd64)              | [Download][18] | For x86-64 processors. <br/> Tested manually on Ubuntu 22.04.4                                                              |
 
@@ -39,7 +39,9 @@ called by selecting **Audio | Audio Processing Settings** from the main menu, ad
 The application now uses *FFmpeg* as the only multimedia framework on all the platforms.
 - Bugs Fixed
   - The bug in Qt6/PyQt6 library that caused deadlock when using *FFmpeg* backend and led to the application hanging fixed.
-- GUI Improvements
+  - SSL certificate added, fixing HTTPS verification issue during application updates checking process.
+- GUI Changes and Improvements
+  - Application style changed to 'Fusion' on Windows 11
   - Dark Mode is now supported in Windows 11, along with macOS and Linux.
   - Other minor adjustments.
 
@@ -125,7 +127,7 @@ The application now uses *FFmpeg* as the only multimedia framework on all the pl
 [12]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.6/EarQuiz_Frequencies_v0.1.6-macOS-Intel.pkg
 [13]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.6/EarQuiz_Frequencies_v0.1.6-macOS-Silicon.dmg
 [14]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.6/earquiz-frequencies_0.1.6-01_amd64.deb
-[15]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/
-[16]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/
-[17]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/
-[18]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/
+[15]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/eqfreq_v0.1.7-build-42.exe
+[16]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/EarQuiz_Frequencies-v0.1.7-macOS-Intel.pkg
+[17]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/EarQuiz_Frequencies-v0.1.7-macOS-Silicon.dmg
+[18]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/earquiz-frequencies_0.1.7-01_amd64.deb
