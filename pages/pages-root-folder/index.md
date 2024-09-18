@@ -20,7 +20,19 @@ widget3:
   url: '/news/'
   image: press-release.png
   text: '<b>2024-09-04</b>: EarQuiz Frequencies -v0.1.7 released!'
-
+tags:
+    - EQ ear training
+    - ear training
+    - music production
+    - audio engineering
+    - equalization
+    - technical ear training
+    - mixing
+    - mastering
+    - Golden Ears
+    - SoundGym alternative
+    - TrainYourEars
+    - QuizTones
 permalink: /index.html
 homepage: true
 
