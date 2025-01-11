@@ -32,7 +32,7 @@ and a certificate by the [SignPath Foundation][10].
 - Bugs Fixed
   - Random application freezes while loading new training examples fixed (at least, partly).
   - Inability to drag & drop separate audio files with capitalized extensions (*.WAV*, *.AIFF*, *.MP3*, *.FLAC*, *.OGG*, etc.) fixed.
-  - Incorrect state of **Controls | Repeat playlist** option in the main menu on application startup fixed.
+  - Incorrect state of **Controls \| Repeat playlist** option in the main menu on application startup fixed.
 - New Features
   - Conversion to *FLAC* format added.
   - Support of wildcard patterns (with such characters as \*, **?**, etc.) for Playlist search added.
