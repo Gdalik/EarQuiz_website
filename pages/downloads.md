@@ -22,10 +22,10 @@ and a certificate by the [SignPath Foundation][10].
 
 | Platform                     | Build          | Notes                                                                                                                       |
 |------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Windows (64-bit)             | [Download][19] | Tested manually on Windows 10, 11                                                                                           |
-| macOS 12 or higher (Intel)   | [Download][20] | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                     |
-| macOS 13 or higher (Silicon) | [Download][21] | For Apple Silicon processors only. <br/> Tested manually on macOS 13 (Ventura)|
-| Linux (amd64)                | [Download][22] | For x86-64 processors. <br/> Tested manually on Ubuntu 24.04.1 LTS                                                              |
+| Windows (64-bit)             | [Download][20] | Tested manually on Windows 10, 11                                                                                           |
+| macOS 12 or higher (Intel)   | [Download][21] | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                     |
+| macOS 13 or higher (Silicon) | [Download][22] | For Apple Silicon processors only. <br/> Tested manually on macOS 13 (Ventura)|
+| Linux (amd64)                | [Download][23] | For x86-64 processors. <br/> Tested manually on Ubuntu 24.04.1 LTS                                                              |
 
 #### What's new in version 0.1.8?
 
