@@ -19,7 +19,7 @@ widget3:
   title: "News"
   url: '/news/'
   image: press-release.png
-  text: '<b>2024-09-04</b>: EarQuiz Frequencies -v0.1.7 released!'
+  text: '<b>2025-01-11</b>: EarQuiz Frequencies -v0.1.8 released!'
 tags:
     - EQ ear training
     - ear training

@@ -13,13 +13,16 @@ tags:
     - resampling audio
     - export audio
 ---
-The purpose of the in-app conversion tool is to convert audio files of compressed formats with playback issues to stable
-uncompressed formats, or to resample audio files with unsupported sampling rates to supported ones.
+The purpose of the in-app conversion tool is to convert audio files between different lossless formats, 
+or to resample audio files. A user might need to downsample audio files with very high resolution (more than 48 kHz) 
+to get sampling rates that are supported by his or her audio system, or just to reduce their size.
 
 To convert audio file(s), first, select it/them. Second, choose the **File \| Convert Selected Files...** item from the main menu
 or the same option from the right-click context menu of the **Playlist**.
 
-In the opened dialog menu you can choose the output format (WAV or AIFF) and the action to be done with sampling rate.
+In the opened dialog menu, you can choose the output format and the action to be done with sampling rate.
+The available formats are WAV, AIFF and FLAC (since *version 0.1.8*).
+
 The sampling rate options are the following:
 - **Same as original**. The source file(s) are not resampled.
 - **44100 Hz**. The sampling rate of the output file is set to 44.1 kHz, regardless of the source sampling rate.

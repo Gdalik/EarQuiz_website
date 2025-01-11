@@ -16,6 +16,31 @@ See the [README][19] file for the details.
 For Windows binaries, starting from *version 0.1.5*, this program uses free code signing provided by [SignPath.io][9], 
 and a certificate by the [SignPath Foundation][10].
 
+### Version 0.1.8<br/>
+*Release Date: Jan 11, 2025*
+
+
+| Platform                     | Build          | Notes                                                                                                                       |
+|------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Windows (64-bit)             | [Download][19] | Tested manually on Windows 10, 11                                                                                           |
+| macOS 12 or higher (Intel)   | [Download][20] | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)                                                     |
+| macOS 13 or higher (Silicon) | [Download][21] | For Apple Silicon processors only. <br/> Tested manually on macOS 13 (Ventura)|
+| Linux (amd64)                | [Download][22] | For x86-64 processors. <br/> Tested manually on Ubuntu 24.04.1 LTS                                                              |
+
+#### What's new in version 0.1.8?
+
+- Bugs Fixed
+  - Random application freezes while loading new training examples fixed (at least, partly).
+  - Inability to drag & drop separate audio files with capitalized extensions (*.WAV*, *.AIFF*, *.MP3*, *.FLAC*, *.OGG*, etc.) fixed.
+  - Incorrect state of **Controls | Repeat playlist** option in the main menu on application startup fixed.
+- New Features
+  - Conversion to *FLAC* format added.
+  - Support of wildcard patterns (with such characters as \*, **?**, etc.) for Playlist search added.
+- Other
+  - Support of *macOS 13 (Ventura)* for Mac computers with *Apple Silicon* processors added.
+  - Creation of temporary audio files is deprecated. Memory buffer is used instead.
+  - Some minor optimizations, performance and stability improvements.
+
 ### Version 0.1.7<br/>
 *Release Date: Sep 04, 2024*
 
@@ -132,3 +157,7 @@ The application now uses *FFmpeg* as the only multimedia framework on all the pl
 [17]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/EarQuiz_Frequencies-v0.1.7-macOS-Silicon.dmg
 [18]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.7/earquiz-frequencies_0.1.7-01_amd64.deb
 [19]: https://github.com/Gdalik/EarQuiz_Frequencies/blob/master/README.md
+[20]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.8-snapshot1/eqfreq_v0.1.8-build-45.exe
+[21]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.8-snapshot1/EarQuiz_Frequencies-v0.1.8-macOS-Intel.pkg
+[22]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.8-snapshot1/EarQuiz_Frequencies-v0.1.8-macOS-Silicon.dmg
+[23]: https://github.com/Gdalik/EarQuiz_Frequencies/releases/download/EarQuiz_Frequencies-v0.1.8-snapshot1/earquiz-frequencies_v0.1.8-01_amd64.deb

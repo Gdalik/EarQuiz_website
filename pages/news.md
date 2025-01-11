@@ -5,6 +5,9 @@ subheadline: "What's new?"
 permalink: "/news/"
 ---
 
+2025-01-11
+:    [EarQuiz Frequencies -v0.1.8 released!][5] <br />
+
 2024-09-04
 :    [EarQuiz Frequencies -v0.1.7 released!][5] <br />
 [<img src="{{ site.urlimg }}Social/youtube_16.png"> Watch Review of New Features in Version 0.1.7][8]
