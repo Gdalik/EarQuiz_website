@@ -19,12 +19,12 @@ and a certificate by the [SignPath Foundation][10].
 ### Version 0.1.8<br/>
 *Release Date: Jan 11, 2025*
 
-|            Platform            |      Build       |                                      Notes                                       |            Security<br/>(SHA256 Checksum with VirusTotal URL)            |
-|:------------------------------:|:----------------:|:--------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
-|        Windows (64-bit)        |  [Download][20]  |                        Tested manually on Windows 10, 11                         |  [70642e090f5b0f201305483a9fb4190bf162f353a83c12994e0246fee6bff0d8][24]  |
-|   macOS 12 or higher (Intel)   |  [Download][21]  |     For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)      |  [5c5196df41cc65de5de7de009b9be57842d4c7e91fc9448ee3f0344878770c01][25]  |
-|  macOS 13 or higher (Silicon)  |  [Download][22]  |  For Apple Silicon processors only. <br/> Tested manually on macOS 13 (Ventura)  |  [26b59e240dcb4b08b188cb1f9b3e5f0a8a058bf3c827a49f8be62fbf7a8d2291][26]  | 
-|         Linux (amd64)          |  [Download][23]  |        For x86-64 processors. <br/> Tested manually on Ubuntu 24.04.1 LTS        |  [16112b782726e434af99795e64a928af25259e389083bea5479fd7e84cdd4402][27]  |
+| Platform                      | Build            | Notes                                                                            |            Security<br/>(SHA256 Checksum with VirusTotal URL)            |
+|-------------------------------|------------------|----------------------------------------------------------------------------------|:------------------------------------------------------------------------:|
+| Windows (64-bit)              | [Download][20]   | Tested manually on Windows 10, 11                                                |  [70642e090f5b0f201305483a9fb4190bf162f353a83c12994e0246fee6bff0d8][24]  |
+| macOS 12 or higher (Intel)    | [Download][21]   | For Intel processors only. <br/> Tested manually on macOS 12 (Monterey)          |  [5c5196df41cc65de5de7de009b9be57842d4c7e91fc9448ee3f0344878770c01][25]  |
+| macOS 13 or higher (Silicon)  | [Download][22]   | For Apple Silicon processors only. <br/> Tested manually on macOS 13 (Ventura)   |  [26b59e240dcb4b08b188cb1f9b3e5f0a8a058bf3c827a49f8be62fbf7a8d2291][26]  | 
+| Linux (amd64)                 | [Download][23]   | For x86-64 processors. <br/> Tested manually on Ubuntu 24.04.1 LTS               |  [16112b782726e434af99795e64a928af25259e389083bea5479fd7e84cdd4402][27]  |
 
 
 #### What's new in version 0.1.8?
